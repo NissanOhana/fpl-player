@@ -1,0 +1,1 @@
+had relatively low weight_decay

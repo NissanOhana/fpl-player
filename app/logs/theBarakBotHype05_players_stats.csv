@@ -1,0 +1,571 @@
+id,gw,pos,team,val,pred,score,captain,squad
+Alex McCarthy,1,0.0,Southampton,4.5,2.869565217391304,2,False,1
+Matt Doherty,1,1.0,Tottenham Hotspur,6.0,3.5217391304347827,2,False,1
+HÃ©ctor BellerÃ­n,1,1.0,Arsenal,5.0,4.130434782608695,5,False,1
+Virgil van Dijk,1,1.0,Liverpool,6.5,4.108695652173913,7,False,1
+Stuart Dallas,1,1.0,Leeds United,4.5,3.5869565217391304,3,False,1
+Pierre-Emerick Aubameyang,1,2.0,Arsenal,12.0,6.065217391304348,7,True,1
+Heung-Min Son,1,2.0,Tottenham Hotspur,9.0,4.695652173913044,2,False,1
+Jack Harrison,1,2.0,Leeds United,5.5,3.804347826086957,7,False,1
+RaÃºl JimÃ©nez,1,3.0,Wolverhampton,8.5,5.130434782608695,8,False,1
+Danny Ings,1,3.0,Southampton,8.5,4.434782608695652,2,False,1
+Alexandre Lacazette,1,3.0,Arsenal,8.5,5.521739130434782,7,False,1
+Allan Saint-Maximin,1,2.0,Newcastle United,5.5,2.565217391304348,3,False,0
+Adama TraorÃ©,1,2.0,Wolverhampton,6.5,3.282608695652174,3,False,0
+Tyrick Mitchell,1,1.0,Crystal Palace,4.0,1.9130434782608696,6,False,0
+Kasper Schmeichel,1,0.0,Leicester,5.5,2.4565217391304346,6,False,0
+Kasper Schmeichel,2,0.0,Leicester,5.5,3.049223609099036,2,False,1
+HÃ©ctor BellerÃ­n,2,1.0,Arsenal,5.0,4.655232579892838,2,False,1
+James Justin,2,1.0,Leicester,4.6,4.499305409630508,7,False,1
+Stuart Dallas,2,1.0,Leeds United,4.5,4.077224039818099,1,False,1
+Pierre-Emerick Aubameyang,2,2.0,Arsenal,12.0,6.969957680371677,5,True,1
+Heung-Min Son,2,2.0,Tottenham Hotspur,8.9,5.344127509382254,24,False,1
+Jack Harrison,2,2.0,Leeds United,5.5,4.120011947656647,2,False,1
+Adama TraorÃ©,2,2.0,Wolverhampton,6.5,2.9622670873599053,2,False,1
+Danny Ings,2,3.0,Southampton,8.5,5.487621511259878,11,False,1
+RaÃºl JimÃ©nez,2,3.0,Wolverhampton,8.5,5.039779683295298,6,False,1
+Alexandre Lacazette,2,3.0,Arsenal,8.5,5.620600587400742,7,False,1
+Alex McCarthy,2,0.0,Southampton,4.5,2.7129162650957395,0,False,0
+Matt Doherty,2,1.0,Tottenham Hotspur,6.0,2.198883023386486,0,False,0
+Allan Saint-Maximin,2,2.0,Newcastle United,5.5,2.614441000403384,1,False,0
+Tyrick Mitchell,2,1.0,Crystal Palace,4.0,1.5274844786642532,5,False,0
+Kasper Schmeichel,3,0.0,Leicester,5.5,4.332801652786921,2,False,1
+Tyrick Mitchell,3,1.0,Crystal Palace,4.1,3.925015617194996,1,False,1
+James Justin,3,1.0,Leicester,4.7,5.726442131988984,1,False,1
+Stuart Dallas,3,1.0,Leeds United,4.5,5.311062522352138,6,False,1
+HÃ©ctor BellerÃ­n,3,1.0,Arsenal,5.0,4.555450399803692,0,False,1
+Heung-Min Son,3,2.0,Tottenham Hotspur,9.1,6.7967602141876,1,False,1
+Pierre-Emerick Aubameyang,3,2.0,Arsenal,11.9,4.949767123871645,2,False,1
+Adama TraorÃ©,3,2.0,Wolverhampton,6.5,3.847717214961869,2,False,1
+Danny Ings,3,3.0,Southampton,8.4,6.753281953318035,9,False,1
+Alexandre Lacazette,3,3.0,Arsenal,8.5,6.405688724017274,7,False,1
+Dominic Calvert-Lewin,3,3.0,Everton,7.3,9.34683244079492,6,True,1
+Jack Harrison,3,2.0,Leeds United,5.5,3.605478400781208,7,False,0
+Alex McCarthy,3,0.0,Southampton,4.5,3.5150144409211093,6,False,0
+Allan Saint-Maximin,3,2.0,Newcastle United,5.4,1.5207323240707444,0,False,0
+Matt Doherty,3,1.0,Tottenham Hotspur,6.0,3.806388017363196,2,False,0
+Alex McCarthy,4,0.0,Southampton,4.5,3.7987363755206194,9,False,1
+James Justin,4,1.0,Leicester,4.7,3.5468764557907804,1,False,1
+Stuart Dallas,4,1.0,Leeds United,4.5,6.599243788159583,1,False,1
+HÃ©ctor BellerÃ­n,4,1.0,Arsenal,5.0,4.234184235913677,11,False,1
+Tyrick Mitchell,4,1.0,Crystal Palace,4.1,4.090354716660346,0,False,1
+Pierre-Emerick Aubameyang,4,2.0,Arsenal,11.9,6.599207919952944,2,False,1
+Heung-Min Son,4,2.0,Tottenham Hotspur,9.0,5.918804124178504,18,False,1
+Adama TraorÃ©,4,2.0,Wolverhampton,6.5,2.975562868702048,1,False,1
+Dominic Calvert-Lewin,4,3.0,Everton,7.5,9.418576726269904,6,False,1
+Danny Ings,4,3.0,Southampton,8.5,7.156715036378546,2,False,1
+Patrick Bamford,4,3.0,Leeds United,5.8,10.582783228812344,1,True,1
+Kasper Schmeichel,4,0.0,Leicester,5.5,3.1849244666680447,2,False,0
+Allan Saint-Maximin,4,2.0,Newcastle United,5.4,0.819291758172163,12,False,0
+Jack Harrison,4,2.0,Leeds United,5.5,2.690040723346707,0,False,0
+Matt Doherty,4,1.0,Tottenham Hotspur,5.9,2.144860234205825,0,False,0
+Alex McCarthy,5,0.0,Southampton,4.5,3.037811662164621,1,False,1
+Stuart Dallas,5,1.0,Leeds United,4.5,5.447069875116105,2,False,1
+HÃ©ctor BellerÃ­n,5,1.0,Arsenal,5.0,4.359514887719478,2,False,1
+James Justin,5,1.0,Leicester,4.7,3.329485151442954,2,False,1
+Heung-Min Son,5,2.0,Tottenham Hotspur,9.2,9.79276115991473,13,False,1
+Pierre-Emerick Aubameyang,5,2.0,Arsenal,11.8,8.186276415779798,2,False,1
+Allan Saint-Maximin,5,2.0,Newcastle United,5.3,3.89576936528007,2,False,1
+Adama TraorÃ©,5,2.0,Wolverhampton,6.4,3.437696776177583,1,False,1
+Dominic Calvert-Lewin,5,3.0,Everton,7.6,8.51775874017251,6,False,1
+Patrick Bamford,5,3.0,Leeds United,5.8,6.5122872664204525,2,False,1
+Harry Kane,5,3.0,Tottenham Hotspur,10.6,10.62017518721406,16,True,1
+Tyrick Mitchell,5,1.0,Crystal Palace,4.1,3.180877606093582,1,False,0
+Jack Harrison,5,2.0,Leeds United,5.5,1.489844482690908,2,False,0
+Kasper Schmeichel,5,0.0,Leicester,5.5,2.6120938470951285,3,False,0
+Matt Doherty,5,1.0,Tottenham Hotspur,5.9,1.0561546641916717,0,False,0
+Alex McCarthy,6,0.0,Southampton,4.5,3.112093847095128,6,False,1
+Stuart Dallas,6,1.0,Leeds United,4.5,3.851224281877737,6,False,1
+HÃ©ctor BellerÃ­n,6,1.0,Arsenal,5.0,3.6555721079646935,1,False,1
+James Justin,6,1.0,Leicester,4.8,3.546876455790781,6,False,1
+Heung-Min Son,6,2.0,Tottenham Hotspur,9.4,11.17053016901322,11,True,1
+Wilfried Zaha,6,2.0,Crystal Palace,7.2,8.490859483986059,13,False,1
+Pierre-Emerick Aubameyang,6,2.0,Arsenal,11.8,5.360077485170335,2,False,1
+Jack Harrison,6,2.0,Leeds United,5.5,4.099243788159583,3,False,1
+Dominic Calvert-Lewin,6,3.0,Everton,7.7,6.467354105417558,1,False,1
+Patrick Bamford,6,3.0,Leeds United,5.8,6.251417701203062,17,False,1
+Harry Kane,6,3.0,Tottenham Hotspur,10.8,8.61323677550898,5,False,1
+Allan Saint-Maximin,6,2.0,Newcastle United,5.3,2.903526353110353,3,False,0
+Tyrick Mitchell,6,1.0,Crystal Palace,4.2,3.449987986393764,2,False,0
+Kasper Schmeichel,6,0.0,Leicester,5.5,2.699050368834259,10,False,0
+Matt Doherty,6,1.0,Tottenham Hotspur,5.8,1.8809517513658487,6,False,0
+Alex McCarthy,7,0.0,Southampton,4.5,2.5839509047778297,3,False,1
+Andrew Robertson,7,1.0,Liverpool,7.1,7.198662291233697,2,False,1
+Matt Doherty,7,1.0,Tottenham Hotspur,5.8,3.4074320276945333,2,False,1
+HÃ©ctor BellerÃ­n,7,1.0,Arsenal,5.0,3.4050106461732303,12,False,1
+Heung-Min Son,7,2.0,Tottenham Hotspur,9.5,8.35236721029159,2,False,1
+Wilfried Zaha,7,2.0,Crystal Palace,7.3,7.076049757591471,1,False,1
+Pierre-Emerick Aubameyang,7,2.0,Arsenal,11.7,5.707903572126857,8,False,1
+Jack Harrison,7,2.0,Leeds United,5.5,3.968809005550888,6,False,1
+Patrick Bamford,7,3.0,Leeds United,5.9,5.294895962072627,2,False,1
+Dominic Calvert-Lewin,7,3.0,Everton,7.7,4.839837434086521,8,False,1
+Harry Kane,7,3.0,Tottenham Hotspur,10.9,8.85236721029159,6,True,1
+James Justin,7,1.0,Leicester,4.8,2.714385687386525,2,False,0
+Stuart Dallas,7,1.0,Leeds United,4.5,3.211724705642882,6,False,0
+Allan Saint-Maximin,7,2.0,Newcastle United,5.3,2.0187335134734816,3,False,0
+Kasper Schmeichel,7,0.0,Leicester,5.5,2.5594216574580426,3,False,0
+Alex McCarthy,8,0.0,Southampton,4.5,2.578923689651491,6,False,1
+Andrew Robertson,8,1.0,Liverpool,7.1,4.0557296590833785,2,False,1
+Stuart Dallas,8,1.0,Leeds United,4.5,3.2022961394361245,0,False,1
+HÃ©ctor BellerÃ­n,8,1.0,Arsenal,5.1,3.168117309631956,1,False,1
+Wilfried Zaha,8,2.0,Crystal Palace,7.4,10.082698675070716,5,False,1
+Heung-Min Son,8,2.0,Tottenham Hotspur,9.6,8.816080650928008,3,False,1
+Pierre-Emerick Aubameyang,8,2.0,Arsenal,11.7,6.468885111431972,2,False,1
+Mahmoud Ahmed Ibrahim Hassan,8,2.0,Aston Villa,5.4,4.77572938104717,3,False,1
+Patrick Bamford,8,3.0,Leeds United,6.0,6.686200309898714,7,False,1
+Dominic Calvert-Lewin,8,3.0,Everton,7.7,5.706484540200166,5,False,1
+Harry Kane,8,3.0,Tottenham Hotspur,11.0,11.966292214046112,9,True,1
+Matt Doherty,8,1.0,Tottenham Hotspur,5.8,2.078923689651491,12,False,0
+James Justin,8,1.0,Leicester,4.8,2.72840272753761,6,False,0
+Allan Saint-Maximin,8,2.0,Newcastle United,5.3,2.842615937905028,2,False,0
+Kasper Schmeichel,8,0.0,Leicester,5.5,2.035445428781926,6,False,0
+Alex McCarthy,9,0.0,Southampton,4.5,2.36389861868636,7,False,1
+Andrew Robertson,9,1.0,Liverpool,7.1,4.360077485170335,12,False,1
+Stuart Dallas,9,1.0,Leeds United,4.5,3.647707448649945,5,False,1
+James Justin,9,1.0,Leicester,4.8,3.3768887845967184,0,False,1
+Heung-Min Son,9,2.0,Tottenham Hotspur,9.5,8.330628079856806,10,False,1
+Wilfried Zaha,9,2.0,Crystal Palace,7.4,6.797561156814949,0,False,1
+Pierre-Emerick Aubameyang,9,2.0,Arsenal,11.7,5.642686180822509,3,False,1
+Mahmoud Ahmed Ibrahim Hassan,9,2.0,Aston Villa,5.3,4.251417701203062,2,False,1
+Patrick Bamford,9,3.0,Leeds United,6.1,5.767899388968899,2,False,1
+Dominic Calvert-Lewin,9,3.0,Everton,7.8,5.585846431787598,13,False,1
+Jamie Vardy,9,3.0,Leicester,10.1,11.978760197823144,2,True,1
+HÃ©ctor BellerÃ­n,9,1.0,Arsenal,5.1,2.9919671679123607,9,False,0
+Allan Saint-Maximin,9,2.0,Newcastle United,5.3,2.1849244666680443,2,False,0
+Kasper Schmeichel,9,0.0,Leicester,5.5,2.3448204699952204,4,False,0
+Matt Doherty,9,1.0,Tottenham Hotspur,5.8,3.189856440066739,0,False,0
+Alex McCarthy,10,0.0,Southampton,4.5,3.5137062983471434,2,False,1
+Stuart Dallas,10,1.0,Leeds United,4.5,4.5122872664204525,8,False,1
+Andrew Robertson,10,1.0,Liverpool,7.1,4.188401539933408,2,False,1
+James Justin,10,1.0,Leicester,4.8,3.075039255707621,1,False,1
+Jack Grealish,10,2.0,Aston Villa,7.6,9.364286520303477,10,False,1
+Pierre-Emerick Aubameyang,10,2.0,Arsenal,11.6,6.773232937518928,2,False,1
+Heung-Min Son,10,2.0,Tottenham Hotspur,9.5,6.058098444943141,3,False,1
+Mahmoud Ahmed Ibrahim Hassan,10,2.0,Aston Villa,5.3,3.5868821952693977,2,False,1
+Dominic Calvert-Lewin,10,3.0,Everton,7.9,6.838940326698513,2,False,1
+Patrick Bamford,10,3.0,Leeds United,6.1,6.794895962072627,2,False,1
+Jamie Vardy,10,3.0,Leicester,10.2,12.034861926298325,5,True,1
+Allan Saint-Maximin,10,2.0,Newcastle United,5.3,2.14144620579848,0,False,0
+Kasper Schmeichel,10,0.0,Leicester,5.5,3.078923689651491,2,False,0
+HÃ©ctor BellerÃ­n,10,1.0,Arsenal,5.1,2.733334700936304,0,False,0
+Matt Doherty,10,1.0,Tottenham Hotspur,5.8,0.9366721974690504,0,False,0
+Alex McCarthy,11,0.0,Southampton,4.6,2.448488907042796,2,False,1
+James Justin,11,1.0,Leicester,4.9,2.962429031517324,2,False,1
+Andrew Robertson,11,1.0,Liverpool,7.2,4.686164441692074,6,False,1
+Stuart Dallas,11,1.0,Leeds United,4.5,3.1491682960821774,1,False,1
+HÃ©ctor BellerÃ­n,11,1.0,Arsenal,5.2,3.144141080955839,1,False,1
+Pierre-Emerick Aubameyang,11,2.0,Arsenal,11.5,7.338450328823276,2,False,1
+James RodrÃ­guez,11,2.0,Everton,7.8,5.6617304360999325,2,False,1
+Heung-Min Son,11,2.0,Tottenham Hotspur,9.5,5.2564090481227606,13,False,1
+Jamie Vardy,11,3.0,Leicester,10.3,9.099319894040669,8,False,1
+Patrick Bamford,11,3.0,Leeds United,6.1,5.599243788159583,8,False,1
+Dominic Calvert-Lewin,11,3.0,Everton,8.0,9.53553134222689,6,True,1
+Mahmoud Ahmed Ibrahim Hassan,11,2.0,Aston Villa,5.3,0.0,0,False,0
+Kasper Schmeichel,11,0.0,Leicester,5.5,1.8754725097781928,2,False,0
+Matt Doherty,11,1.0,Tottenham Hotspur,5.8,1.0236287192081808,0,False,0
+Allan Saint-Maximin,11,2.0,Newcastle United,5.3,0.0,0,False,0
+Alex McCarthy,12,0.0,Southampton,4.6,3.7465070135169927,6,False,1
+HÃ©ctor BellerÃ­n,12,1.0,Arsenal,5.2,2.7958694425481654,1,False,1
+Andrew Robertson,12,1.0,Liverpool,7.2,4.381371064153966,2,False,1
+James Justin,12,1.0,Leicester,4.9,3.5971490091812783,11,False,1
+Stuart Dallas,12,1.0,Leeds United,4.6,2.840133738883436,1,False,1
+Tomas Soucek,12,2.0,West Ham United,4.9,6.441386033322296,9,False,1
+Pierre-Emerick Aubameyang,12,2.0,Arsenal,11.5,5.495383586962397,0,False,1
+Heung-Min Son,12,2.0,Tottenham Hotspur,9.6,4.809330850257746,5,False,1
+Dominic Calvert-Lewin,12,3.0,Everton,8.0,6.624287363556679,5,False,1
+Patrick Bamford,12,3.0,Leeds United,6.2,4.691071385516117,5,False,1
+Jamie Vardy,12,3.0,Leicester,10.3,6.799731413049354,13,True,1
+Kasper Schmeichel,12,0.0,Leicester,5.5,3.180958415832136,7,False,0
+Matt Doherty,12,1.0,Tottenham Hotspur,5.8,0.8612194742136496,0,False,0
+Mahmoud Ahmed Ibrahim Hassan,12,2.0,Aston Villa,5.3,0.0,0,False,0
+Allan Saint-Maximin,12,2.0,Newcastle United,5.3,0.0,0,False,0
+Alex McCarthy,13,0.0,Southampton,4.6,3.963567111484309,3,False,1
+Andrew Robertson,13,1.0,Liverpool,7.2,5.033544977197444,5,False,1
+James Justin,13,1.0,Leicester,4.9,3.777950780919509,1,False,1
+Stuart Dallas,13,1.0,Leeds United,4.6,2.601003304100827,7,False,1
+Jack Grealish,13,2.0,Aston Villa,7.8,7.748126634670595,3,False,1
+Heung-Min Son,13,2.0,Tottenham Hotspur,9.6,6.555284107632227,9,False,1
+Pierre-Emerick Aubameyang,13,2.0,Arsenal,11.5,6.277992282614571,10,False,1
+Tomas Soucek,13,2.0,West Ham United,5.0,5.215424701222155,2,False,1
+Patrick Bamford,13,3.0,Leeds United,6.3,6.716389382279174,6,False,1
+Dominic Calvert-Lewin,13,3.0,Everton,7.9,4.8737699603427735,5,False,1
+Jamie Vardy,13,3.0,Leicester,10.3,8.049214009835449,2,True,1
+HÃ©ctor BellerÃ­n,13,1.0,Arsenal,5.2,2.4516545709073574,0,False,0
+Allan Saint-Maximin,13,2.0,Newcastle United,5.2,0.5133933872571278,0,False,0
+Kasper Schmeichel,13,0.0,Leicester,5.5,3.63781136134308,2,False,0
+Matt Doherty,13,1.0,Tottenham Hotspur,5.8,0.6438281698658235,0,False,0
+Alex McCarthy,14,0.0,Southampton,4.6,3.898680926560471,3,False,1
+Andrew Robertson,14,1.0,Liverpool,7.2,5.381371064153966,10,False,1
+Stuart Dallas,14,1.0,Leeds United,4.6,5.011900899368912,5,False,1
+James Justin,14,1.0,Leicester,4.9,4.1655463904612295,8,False,1
+Heung-Min Son,14,2.0,Tottenham Hotspur,9.7,8.634620689765091,2,True,1
+Kevin De Bruyne,14,2.0,Manchester City,11.9,8.096161863531325,5,False,1
+Jack Grealish,14,2.0,Aston Villa,7.8,6.547683003821034,10,False,1
+Tomas Soucek,14,2.0,West Ham United,5.0,2.8289261693248924,2,False,1
+Dominic Calvert-Lewin,14,3.0,Everton,7.9,5.525943873386252,4,False,1
+Patrick Bamford,14,3.0,Leeds United,6.3,4.381354386238456,2,False,1
+Jamie Vardy,14,3.0,Leicester,10.2,7.473644456527616,12,False,1
+Allan Saint-Maximin,14,2.0,Newcastle United,5.1,0.556871648126693,0,False,0
+Kasper Schmeichel,14,0.0,Leicester,5.5,2.631819150200106,7,False,0
+HÃ©ctor BellerÃ­n,14,1.0,Arsenal,5.1,0.5903603194891176,0,False,0
+Matt Doherty,14,1.0,Tottenham Hotspur,5.7,0.6003499089962582,0,False,0
+Alex McCarthy,15,0.0,Southampton,4.6,4.072593970038732,6,False,1
+Andrew Robertson,15,1.0,Liverpool,7.3,5.148576499349929,2,False,1
+Stuart Dallas,15,1.0,Leeds United,4.7,4.517158342037856,6,False,1
+James Justin,15,1.0,Leicester,4.9,3.669255128745596,1,False,1
+Bruno Miguel Borges Fernandes,15,2.0,Manchester United,11.0,8.581743490066417,12,True,1
+Heung-Min Son,15,2.0,Tottenham Hotspur,9.7,7.443987950487847,3,False,1
+Jack Grealish,15,2.0,Aston Villa,7.8,5.982465612516687,2,False,1
+Tomas Soucek,15,2.0,West Ham United,5.1,3.709135001467237,10,False,1
+Patrick Bamford,15,3.0,Leeds United,6.4,4.691071385516117,8,False,1
+Dominic Calvert-Lewin,15,3.0,Everton,8.0,4.676696120718804,1,False,1
+Jamie Vardy,15,3.0,Leicester,10.1,6.766605314183275,5,False,1
+Allan Saint-Maximin,15,2.0,Newcastle United,5.1,1.0878237828406436,0,False,0
+Kasper Schmeichel,15,0.0,Leicester,5.5,3.3117244048213403,1,False,0
+HÃ©ctor BellerÃ­n,15,1.0,Arsenal,5.1,0.7207951020978135,2,False,0
+Matt Doherty,15,1.0,Tottenham Hotspur,5.7,0.6873064307353887,2,False,0
+Alex McCarthy,16,0.0,Southampton,4.7,4.4856374482996015,9,False,1
+HÃ©ctor BellerÃ­n,16,1.0,Arsenal,5.1,3.2450812072619213,6,False,1
+Andrew Robertson,16,1.0,Liverpool,7.3,5.272675411980053,9,False,1
+James Justin,16,1.0,Leicester,5.0,3.948155086113404,2,False,1
+Stuart Dallas,16,1.0,Leeds United,4.7,3.333463535256123,12,False,1
+Bruno Miguel Borges Fernandes,16,2.0,Manchester United,11.1,10.472529966303128,6,True,1
+Marcus Rashford,16,2.0,Manchester United,9.5,6.987466211357414,7,False,1
+Jack Grealish,16,2.0,Aston Villa,7.8,6.1781177864297305,2,False,1
+Tomas Soucek,16,2.0,West Ham United,5.1,4.835327922954611,3,False,1
+Jamie Vardy,16,3.0,Leicester,10.1,6.973644456527615,1,False,1
+Patrick Bamford,16,3.0,Leeds United,6.5,9.034928496685238,8,False,1
+Dominic Calvert-Lewin,16,3.0,Everton,8.0,0.0,0,False,0
+Allan Saint-Maximin,16,2.0,Newcastle United,5.1,0.8051638722928398,0,False,0
+Kasper Schmeichel,16,0.0,Leicester,5.5,3.0883408893305413,2,False,0
+Matt Doherty,16,1.0,Tottenham Hotspur,5.7,0.0,0,False,0
+Emiliano MartÃ­nez,17,0.0,Aston Villa,5.0,4.333463535256123,3,False,1
+HÃ©ctor BellerÃ­n,17,1.0,Arsenal,5.1,3.3118651826867893,0,False,1
+James Justin,17,1.0,Leicester,5.0,4.567382299163556,1,False,1
+Andrew Robertson,17,1.0,Liverpool,7.4,3.8745482415620938,1,False,1
+Stuart Dallas,17,1.0,Leeds United,4.8,3.495342085267336,1,False,1
+Bruno Miguel Borges Fernandes,17,2.0,Manchester United,11.2,11.587838096447442,10,True,1
+Marcus Rashford,17,2.0,Manchester United,9.5,6.813553167879153,2,False,1
+Jack Grealish,17,2.0,Aston Villa,7.7,6.059069972252331,7,False,1
+Tomas Soucek,17,2.0,West Ham United,5.2,4.847912705011299,11,False,1
+Jamie Vardy,17,3.0,Leicester,10.2,4.090718083862747,5,False,1
+Patrick Bamford,17,3.0,Leeds United,6.6,6.603259456221928,2,False,1
+Allan Saint-Maximin,17,2.0,Newcastle United,5.1,0.9046977350832148,0,False,0
+Kasper Schmeichel,17,0.0,Leicester,5.5,3.5722627636582223,2,False,0
+Dominic Calvert-Lewin,17,3.0,Everton,8.0,0.0,2,False,0
+Matt Doherty,17,1.0,Tottenham Hotspur,5.7,0.0,3,False,0
+David de Gea,18,0.0,Manchester United,5.3,4.350665299759675,6,False,1
+RÃºben Santos Gato Alves Dias,18,1.0,Manchester City,5.8,3.996539710250441,7,False,1
+JoÃ£o Pedro Cavaco Cancelo,18,1.0,Manchester City,5.8,3.954149281058412,6,False,1
+Tyrick Mitchell,18,1.0,Crystal Palace,3.9,3.2465070135169927,8,False,1
+Bruno Miguel Borges Fernandes,18,2.0,Manchester United,11.3,10.403877129004826,2,False,1
+Kevin De Bruyne,18,2.0,Manchester City,11.8,9.63104984924965,6,False,1
+Bukayo Saka,18,2.0,Arsenal,5.3,7.130592112012534,3,False,1
+Wilfried Zaha,18,2.0,Crystal Palace,7.4,6.612900395125382,3,False,1
+Anthony Martial,18,3.0,Manchester United,8.8,8.348626094350838,2,False,1
+Alexandre Lacazette,18,3.0,Arsenal,8.3,5.656378655994947,2,False,1
+Harry Kane,18,3.0,Tottenham Hotspur,11.0,10.87944674132462,8,True,1
+Rob Holding,18,1.0,Arsenal,4.5,3.224908660947659,6,False,0
+Pierre-Emile HÃ¸jbjerg,18,2.0,Tottenham Hotspur,4.9,3.379757704833452,1,False,0
+Max Kilman,18,1.0,Wolverhampton,4.1,2.582678108742733,0,False,0
+Vicente Guaita,18,0.0,Crystal Palace,4.8,3.137952139208529,10,False,0
+Vicente Guaita,19,0.0,Crystal Palace,4.8,3.343168172223857,0,False,1
+James Tarkowski,19,1.0,Burnley,5.3,4.679863815957573,2,False,1
+JoÃ£o Pedro Cavaco Cancelo,19,1.0,Manchester City,5.8,4.162366400485626,1,False,1
+Tyrick Mitchell,19,1.0,Crystal Palace,3.9,3.5271643139890405,0,False,1
+Kevin De Bruyne,19,2.0,Manchester City,11.8,10.161388028631263,7,True,1
+Bruno Miguel Borges Fernandes,19,2.0,Manchester United,11.3,8.3787705591835,3,False,1
+Bukayo Saka,19,2.0,Arsenal,5.3,4.86412902143932,9,False,1
+Pierre-Emile HÃ¸jbjerg,19,2.0,Tottenham Hotspur,4.9,3.350665299759675,5,False,1
+Anthony Martial,19,3.0,Manchester United,8.8,6.661379254835674,2,False,1
+Alexandre Lacazette,19,3.0,Arsenal,8.3,4.255369059619616,2,False,1
+Harry Kane,19,3.0,Tottenham Hotspur,11.1,7.835292298313936,9,False,1
+Wilfried Zaha,19,2.0,Crystal Palace,7.3,3.121909312595759,0,False,0
+David de Gea,19,0.0,Manchester United,5.3,3.3332731067410624,7,False,0
+Max Kilman,19,1.0,Wolverhampton,4.1,1.0351325176919104,0,False,0
+Rob Holding,19,1.0,Arsenal,4.5,3.0023056857246564,6,False,0
+Emiliano MartÃ­nez,20,0.0,Aston Villa,5.1,3.795882231726439,1,False,1
+Willy Boly,20,1.0,Wolverhampton,5.4,5.0961974881720025,6,False,1
+Aaron Cresswell,20,1.0,West Ham United,5.4,4.745126812952567,5,False,1
+Andrew Robertson,20,1.0,Liverpool,7.4,4.490066716327879,2,False,1
+Raheem Sterling,20,2.0,Manchester City,11.5,8.873724195318498,11,False,1
+Jack Grealish,20,2.0,Aston Villa,7.7,8.2503930037978,8,False,1
+Heung-Min Son,20,2.0,Tottenham Hotspur,9.7,8.009205341792196,2,False,1
+Bukayo Saka,20,2.0,Arsenal,5.3,7.155944152806468,13,False,1
+Paul Pogba,20,2.0,Manchester United,7.7,6.507674335777781,2,False,1
+Harry Kane,20,3.0,Tottenham Hotspur,11.2,8.030944472226977,1,False,1
+Michail Antonio,20,3.0,West Ham United,6.4,8.898682475608283,5,True,1
+Lewis Dunk,20,1.0,Brighton,4.8,3.477325663677332,6,False,0
+David McGoldrick,20,3.0,Sheffield United,5.2,4.992041185731355,2,False,0
+Edouard Mendy,20,0.0,Chelsea,5.1,3.050995617469398,6,False,0
+James Justin,20,1.0,Leicester,5.0,3.9736029548325527,1,False,0
+Emiliano MartÃ­nez,21,0.0,Aston Villa,5.1,4.496845017858145,10,False,1
+Lewis Dunk,21,1.0,Brighton,4.8,4.585243034631924,6,False,1
+Andrew Robertson,21,1.0,Liverpool,7.4,5.234408821985665,2,False,1
+James Justin,21,1.0,Leicester,5.0,5.223342076827138,1,False,1
+Aaron Cresswell,21,1.0,West Ham United,5.5,5.170085740194495,4,False,1
+Bruno Miguel Borges Fernandes,21,2.0,Manchester United,11.4,8.835292298313936,3,True,1
+Jack Grealish,21,2.0,Aston Villa,7.7,6.79820040703494,6,False,1
+Heung-Min Son,21,2.0,Tottenham Hotspur,9.8,5.867659513302123,2,False,1
+Paul Pogba,21,2.0,Manchester United,7.7,5.789877176483605,2,False,1
+Bukayo Saka,21,2.0,Arsenal,5.4,4.349237796242593,0,False,1
+Michail Antonio,21,3.0,West Ham United,6.5,5.584989918613458,2,False,1
+Harry Kane,21,3.0,Tottenham Hotspur,11.2,2.386345702141924,0,False,0
+Willy Boly,21,1.0,Wolverhampton,5.4,3.811865182686789,2,False,0
+Edouard Mendy,21,0.0,Chelsea,5.1,2.963707889349758,6,False,0
+David McGoldrick,21,3.0,Sheffield United,5.2,2.9829611838769936,1,False,0
+Emiliano MartÃ­nez,22,0.0,Aston Villa,5.1,4.973602954832552,4,False,1
+Willy Boly,22,1.0,Wolverhampton,5.4,3.7637087780205447,2,False,1
+Lewis Dunk,22,1.0,Brighton,4.8,3.4895009350098287,8,False,1
+Andrew Robertson,22,1.0,Liverpool,7.4,5.060495778507403,2,False,1
+James Justin,22,1.0,Leicester,5.1,3.8664102352494494,15,False,1
+Aaron Cresswell,22,1.0,West Ham United,5.6,3.7839930632435848,1,False,1
+Jack Grealish,22,2.0,Aston Villa,7.8,8.948397453849141,6,True,1
+Bruno Miguel Borges Fernandes,22,2.0,Manchester United,11.4,7.577023238067009,17,False,1
+James Maddison,22,2.0,Leicester,7.3,7.344152416450576,11,False,1
+Heung-Min Son,22,2.0,Tottenham Hotspur,9.7,7.272675411980053,2,False,1
+Michail Antonio,22,3.0,West Ham United,6.6,5.814186076426926,8,False,1
+Bukayo Saka,22,2.0,Arsenal,5.4,1.0468820586195524,2,False,0
+Edouard Mendy,22,0.0,Chelsea,5.1,3.094142671958454,6,False,0
+Harry Kane,22,3.0,Tottenham Hotspur,11.1,0.4262335802291747,0,False,0
+David McGoldrick,22,3.0,Sheffield United,5.2,2.911389130940583,1,False,0
+Emiliano MartÃ­nez,23,0.0,Aston Villa,5.2,3.861099623030788,9,False,1
+Lewis Dunk,23,1.0,Brighton,4.8,5.063503904197142,9,False,1
+James Justin,23,1.0,Leicester,5.2,6.168476847526276,9,False,1
+Aaron Cresswell,23,1.0,West Ham United,5.7,5.4586866469896425,9,False,1
+Andrew Robertson,23,1.0,Liverpool,7.4,5.277887082855229,0,False,1
+Bruno Miguel Borges Fernandes,23,2.0,Manchester United,11.5,10.002260294620616,7,True,1
+Jack Grealish,23,2.0,Aston Villa,7.8,9.1273611829747,2,False,1
+Heung-Min Son,23,2.0,Tottenham Hotspur,9.7,6.490066716327879,10,False,1
+James Maddison,23,2.0,Leicester,7.4,5.965662290991951,2,False,1
+Michail Antonio,23,3.0,West Ham United,6.7,6.4980333968743285,2,False,1
+Patrick Bamford,23,3.0,Leeds United,6.7,8.4848229080181,6,False,1
+Willy Boly,23,1.0,Wolverhampton,5.4,3.741969647585762,0,False,0
+Edouard Mendy,23,0.0,Chelsea,5.1,3.2466477913824416,3,False,0
+Bukayo Saka,23,2.0,Arsenal,5.4,4.451940950733508,2,False,0
+David McGoldrick,23,3.0,Sheffield United,5.2,3.3145403135291045,1,False,0
+Emiliano MartÃ­nez,24,0.0,Aston Villa,5.2,3.886646433093423,12,False,1
+Andrew Robertson,24,1.0,Liverpool,7.3,5.060495778507403,1,False,1
+Aaron Cresswell,24,1.0,West Ham United,5.8,4.952048107677739,12,False,1
+Lewis Dunk,24,1.0,Brighton,4.8,4.509673481324091,7,False,1
+Bruno Miguel Borges Fernandes,24,2.0,Manchester United,11.5,10.878265316569609,9,True,1
+Ilkay GÃ¼ndogan,24,2.0,Manchester City,6.0,9.92728870433506,19,False,1
+Heung-Min Son,24,2.0,Tottenham Hotspur,9.6,7.443987950487849,2,False,1
+Jack Grealish,24,2.0,Aston Villa,7.8,6.2650743081688605,2,False,1
+James Maddison,24,2.0,Leicester,7.4,6.156378655994947,8,False,1
+David McGoldrick,24,3.0,Sheffield United,5.2,3.2306458622354897,2,False,1
+Patrick Bamford,24,3.0,Leeds United,6.8,6.743335177734078,2,False,1
+James Justin,24,1.0,Leicester,5.1,2.070878158766269,0,False,0
+Michail Antonio,24,3.0,West Ham United,6.7,2.0121805703981006,0,False,0
+Edouard Mendy,24,0.0,Chelsea,5.1,2.937621821498805,0,False,0
+Willy Boly,24,1.0,Wolverhampton,5.4,1.207142592905308,0,False,0
+Emiliano MartÃ­nez,25,0.0,Aston Villa,5.3,4.538820346136901,2,False,1
+Andrew Robertson,25,1.0,Liverpool,7.3,5.181587379256043,1,False,1
+Aaron Cresswell,25,1.0,West Ham United,5.8,4.930308977242956,2,False,1
+Lewis Dunk,25,1.0,Brighton,4.9,3.96255013369987,1,False,1
+James Maddison,25,2.0,Leicester,7.3,7.97688320436548,9,True,1
+Bruno Miguel Borges Fernandes,25,2.0,Manchester United,11.6,7.422248820053066,12,False,1
+Ilkay GÃ¼ndogan,25,2.0,Manchester City,6.1,5.932816005569981,3,False,1
+Heung-Min Son,25,2.0,Tottenham Hotspur,9.5,5.734408821985665,2,False,1
+Patrick Bamford,25,3.0,Leeds United,6.9,5.841678667904505,2,False,1
+David McGoldrick,25,3.0,Sheffield United,5.2,4.470302055296572,0,False,1
+Jamie Vardy,25,3.0,Leicester,10.1,7.038861847831963,5,False,1
+Jack Grealish,25,2.0,Aston Villa,7.7,2.6199461474916244,0,False,0
+Edouard Mendy,25,0.0,Chelsea,5.1,1.1636643320357427,2,False,0
+James Justin,25,1.0,Leicester,5.0,0.385185785731918,0,False,0
+Willy Boly,25,1.0,Wolverhampton,5.4,1.033229549427047,0,False,0
+Emiliano MartÃ­nez,26,0.0,Aston Villa,5.3,4.062062409162492,10,False,1
+Aaron Cresswell,26,1.0,West Ham United,5.8,4.676077951337469,1,False,1
+Andrew Robertson,26,1.0,Liverpool,7.2,4.642240629371357,7,False,1
+Lewis Dunk,26,1.0,Brighton,4.9,3.104053691803696,2,False,1
+Bruno Miguel Borges Fernandes,26,2.0,Manchester United,11.6,7.335292298313936,3,True,1
+Heung-Min Son,26,2.0,Tottenham Hotspur,9.5,7.229197151110488,11,False,1
+Riyad Mahrez,26,2.0,Manchester City,8.1,5.936157441920722,5,False,1
+Ilkay GÃ¼ndogan,26,2.0,Manchester City,6.2,4.879757704833453,2,False,1
+Jamie Vardy,26,3.0,Leicester,10.2,5.60407923913631,2,False,1
+David McGoldrick,26,3.0,Sheffield United,5.2,2.498685546300218,1,False,1
+Patrick Bamford,26,3.0,Leeds United,6.9,5.9721134505132,2,False,1
+Edouard Mendy,26,0.0,Chelsea,5.1,3.089795734542284,10,False,0
+James Justin,26,1.0,Leicester,5.0,0.3952795427699614,0,False,0
+Willy Boly,26,1.0,Wolverhampton,5.4,1.098446940731395,0,False,0
+Jack Grealish,26,2.0,Aston Villa,7.6,0.702175749780922,0,False,0
+Edouard Mendy,27,0.0,Chelsea,5.1,4.299689911354292,6,False,1
+Andrew Robertson,27,1.0,Liverpool,7.2,4.551152596647347,2,False,1
+Aaron Cresswell,27,1.0,West Ham United,5.8,4.300520522803191,12,False,1
+Lewis Dunk,27,1.0,Brighton,4.9,3.0500401825174976,1,False,1
+Jesse Lingard,27,2.0,West Ham United,6.0,7.264413640815921,5,True,1
+Riyad Mahrez,27,2.0,Manchester City,8.1,6.566592224529418,2,False,1
+Heung-Min Son,27,2.0,Tottenham Hotspur,9.5,6.465822207561145,5,False,1
+Bruno Miguel Borges Fernandes,27,2.0,Manchester United,11.6,6.066494530660597,10,False,1
+Ilkay GÃ¼ndogan,27,2.0,Manchester City,6.2,5.925485888114324,2,False,1
+Patrick Bamford,27,3.0,Leeds United,6.8,5.4721134505132,2,False,1
+Jamie Vardy,27,3.0,Leicester,10.2,6.2126696915508814,2,False,1
+Emiliano MartÃ­nez,27,0.0,Aston Villa,5.3,4.060559476571683,7,False,0
+David McGoldrick,27,3.0,Sheffield United,5.2,3.1075643542657887,1,False,0
+Willy Boly,27,1.0,Wolverhampton,5.4,1.0549686798618298,0,False,0
+James Justin,27,1.0,Leicester,4.9,0.707142592905308,0,False,0
+Emiliano MartÃ­nez,28,0.0,Aston Villa,5.4,4.355202665690905,3,False,1
+Aaron Cresswell,28,1.0,West Ham United,5.8,4.2127333896151615,2,False,1
+Andrew Robertson,28,1.0,Liverpool,7.2,4.033544977197444,6,False,1
+Lewis Dunk,28,1.0,Brighton,4.9,3.177594313659378,10,False,1
+Bruno Miguel Borges Fernandes,28,2.0,Manchester United,11.5,7.83440554306878,3,True,1
+Heung-Min Son,28,2.0,Tottenham Hotspur,9.6,6.857126555387234,1,False,1
+Riyad Mahrez,28,2.0,Manchester City,8.1,6.370940050616374,0,False,1
+Jesse Lingard,28,2.0,West Ham United,6.1,5.26410260370481,0,False,1
+Jamie Vardy,28,3.0,Leicester,10.2,5.973539256768273,13,False,1
+Patrick Bamford,28,3.0,Leeds United,6.8,5.450374320078418,1,False,1
+Che Adams,28,3.0,Southampton,5.8,7.252411255684253,8,False,1
+Edouard Mendy,28,0.0,Chelsea,5.1,2.964039095730268,9,False,0
+Ilkay GÃ¼ndogan,28,2.0,Manchester City,6.2,5.252910750948746,0,False,0
+Willy Boly,28,1.0,Wolverhampton,5.4,1.14192520160096,2,False,0
+James Justin,28,1.0,Leicester,4.9,1.059937803580039,0,False,0
+Emiliano MartÃ­nez,29,0.0,Aston Villa,5.4,4.746507013516992,1,False,1
+Aaron Cresswell,29,1.0,West Ham United,5.9,4.833463535256123,0,False,1
+Stuart Dallas,29,1.0,Leeds United,5.1,4.594333100473515,2,False,1
+Lewis Dunk,29,1.0,Brighton,5.0,4.096630003063221,6,False,1
+Leandro Trossard,29,2.0,Brighton,5.8,6.737683484858718,14,False,1
+Raphael Dias Belloli,29,2.0,Leeds United,5.6,6.280101305736113,8,False,1
+Lucas Rodrigues Moura da Silva,29,2.0,Tottenham Hotspur,6.6,6.035653900326287,9,False,1
+Tomas Soucek,29,2.0,West Ham United,5.3,5.397239378801723,5,False,1
+Alexandre Lacazette,29,3.0,Arsenal,8.1,6.936703270661952,11,False,1
+Neal Maupay,29,3.0,Brighton,6.1,6.468679554714205,8,False,1
+Harry Kane,29,3.0,Tottenham Hotspur,11.5,9.661491322763942,7,True,1
+Kieran Tierney,29,1.0,Arsenal,5.2,3.432410150623629,1,False,0
+Gareth Bale,29,2.0,Tottenham Hotspur,9.6,3.5803330507006343,0,False,0
+Matt Targett,29,1.0,Aston Villa,5.1,2.914455187546941,0,False,0
+Lukasz Fabianski,29,0.0,West Ham United,5.0,3.8071870388901097,2,False,0
+Emiliano MartÃ­nez,30,0.0,Aston Villa,5.4,2.822931974379884,4,False,1
+Andrew Robertson,30,1.0,Liverpool,7.2,0.0,7,False,1
+Lewis Dunk,30,1.0,Brighton,5.0,4.150460425936273,1,False,1
+Aaron Cresswell,30,1.0,West Ham United,5.9,3.805732193678367,1,False,1
+Willy Boly,30,1.0,Wolverhampton,5.4,0.0,0,False,1
+Pierre-Emerick Aubameyang,30,2.0,Arsenal,11.4,6.190930561116099,2,True,1
+Jesse Lingard,30,2.0,West Ham United,6.2,5.98638157013302,12,False,1
+Heung-Min Son,30,2.0,Tottenham Hotspur,9.4,1.2288817233400906,1,False,1
+Riyad Mahrez,30,2.0,Manchester City,8.1,0.0,3,False,1
+Che Adams,30,3.0,Southampton,5.8,0.0,1,False,1
+Patrick Bamford,30,3.0,Leeds United,6.7,5.918994250740181,2,False,1
+Jamie Vardy,30,3.0,Leicester,10.2,0.0,2,False,0
+Edouard Mendy,30,0.0,Chelsea,5.1,0.0,0,False,0
+James Justin,30,1.0,Leicester,4.9,0.0,0,False,0
+Ilkay GÃ¼ndogan,30,2.0,Manchester City,6.2,0.0,0,False,0
+Emiliano MartÃ­nez,31,0.0,Aston Villa,5.4,4.893370314341809,4,False,1
+Andrew Robertson,31,1.0,Liverpool,7.1,4.446588455458314,4,False,1
+Aaron Cresswell,31,1.0,West Ham United,5.9,4.110080019765324,0,False,1
+Lewis Dunk,31,1.0,Brighton,5.0,2.548585337305754,8,False,1
+Mohamed Salah,31,2.0,Liverpool,12.4,11.945128086624168,7,True,1
+Jesse Lingard,31,2.0,West Ham United,6.3,7.6397742409701825,14,False,1
+Riyad Mahrez,31,2.0,Manchester City,8.2,6.153548746268548,0,False,1
+Heung-Min Son,31,2.0,Tottenham Hotspur,9.4,5.015115659396287,7,False,1
+Jamie Vardy,31,3.0,Leicester,10.1,5.125381963431241,2,False,1
+Che Adams,31,3.0,Southampton,5.8,2.164800324973896,1,False,1
+Patrick Bamford,31,3.0,Leeds United,6.6,6.679863815957573,4,False,1
+Willy Boly,31,1.0,Wolverhampton,5.4,1.14192520160096,0,False,0
+Edouard Mendy,31,0.0,Chelsea,5.2,2.670758061336406,2,False,0
+James Justin,31,1.0,Leicester,4.9,1.0164595427104737,0,False,0
+Ilkay GÃ¼ndogan,31,2.0,Manchester City,6.0,1.424533897253134,1,False,0
+Emiliano MartÃ­nez,32,0.0,Aston Villa,5.4,4.361099623030787,1,False,1
+Luke Shaw,32,1.0,Manchester United,5.3,6.23041107648149,2,False,1
+Andrew Robertson,32,1.0,Liverpool,7.1,4.88515692877407,2,False,1
+Lewis Dunk,32,1.0,Brighton,5.0,4.21567781724062,6,False,1
+Heung-Min Son,32,2.0,Tottenham Hotspur,9.5,10.476893325230389,2,True,1
+Mohamed Salah,32,2.0,Liverpool,12.5,8.082340108701528,1,False,1
+Jesse Lingard,32,2.0,West Ham United,6.5,5.7918496620850455,7,False,1
+Ilkay GÃ¼ndogan,32,2.0,Manchester City,5.9,3.244501542986988,1,False,1
+Patrick Bamford,32,3.0,Leeds United,6.5,4.278661489036286,2,False,1
+Che Adams,32,3.0,Southampton,5.8,2.6790487232686693,2,False,1
+Jamie Vardy,32,3.0,Leicester,10.1,6.6258183695710935,10,False,1
+Aaron Cresswell,32,1.0,West Ham United,5.8,1.896379756205829,0,False,0
+Riyad Mahrez,32,2.0,Manchester City,8.1,1.1854034624705252,2,False,0
+Edouard Mendy,32,0.0,Chelsea,5.2,2.4418279810495265,0,False,0
+James Justin,32,1.0,Leicester,4.8,1.0549686798618296,0,False,0
+Emiliano MartÃ­nez,33,0.0,Aston Villa,5.4,3.779453713510319,2,False,1
+James Justin,33,1.0,Leicester,4.8,1.0114904189922649,0,False,1
+Aaron Cresswell,33,1.0,West Ham United,5.7,0.4296320224960471,0,False,1
+Andrew Robertson,33,1.0,Liverpool,7.1,5.64520765156911,3,False,1
+Luke Shaw,33,1.0,Manchester United,5.4,5.3717301252505125,8,False,1
+Lewis Dunk,33,1.0,Brighton,4.9,2.380805282835916,2,False,1
+Mohamed Salah,33,2.0,Liverpool,12.6,9.266590986435569,9,True,1
+Mason Greenwood,33,2.0,Manchester United,7.1,7.0629525877887085,3,False,1
+Jesse Lingard,33,2.0,West Ham United,6.6,5.813588792519829,2,False,1
+Patrick Bamford,33,3.0,Leeds United,6.5,5.918994250740181,1,False,1
+Jamie Vardy,33,3.0,Leicester,10.2,7.418779227226754,2,False,1
+Ilkay GÃ¼ndogan,33,2.0,Manchester City,5.9,0.0,0,False,0
+Che Adams,33,3.0,Southampton,5.8,0.0,0,False,0
+Edouard Mendy,33,0.0,Chelsea,5.2,1.277329107927865,5,False,0
+Riyad Mahrez,33,2.0,Manchester City,8.1,0.0,0,False,0
+Emiliano MartÃ­nez,34,0.0,Aston Villa,5.4,3.8664102352494494,2,False,1
+Luke Shaw,34,1.0,Manchester United,5.4,0.0,0,False,1
+Lewis Dunk,34,1.0,Brighton,4.9,2.7442375112187976,8,False,1
+James Justin,34,1.0,Leicester,4.8,0.94817599595278,0,False,1
+Aaron Cresswell,34,1.0,West Ham United,5.6,0.6003499089962583,2,False,1
+Jesse Lingard,34,2.0,West Ham United,6.7,4.730763781765577,2,False,1
+Mason Greenwood,34,2.0,Manchester United,7.1,0.0,0,False,1
+Mohamed Salah,34,2.0,Liverpool,12.6,0.0,0,False,1
+Jamie Vardy,34,3.0,Leicester,10.3,6.582340108701528,2,False,1
+Patrick Bamford,34,3.0,Leeds United,6.5,4.85612800167088,1,False,1
+Kelechi Iheanacho,34,3.0,Leicester,6.2,7.454779000509992,5,True,1
+Andrew Robertson,34,1.0,Liverpool,7.1,0.0,0,False,0
+Edouard Mendy,34,0.0,Chelsea,5.2,2.594333100473514,7,False,0
+Riyad Mahrez,34,2.0,Manchester City,8.1,0.0,0,False,0
+Ilkay GÃ¼ndogan,34,2.0,Manchester City,5.9,0.0,0,False,0
+Emiliano MartÃ­nez,35,0.0,Aston Villa,5.4,3.388149365684232,2,False,1
+Aaron Cresswell,35,1.0,West Ham United,5.6,4.235303131498844,1,False,1
+Lewis Dunk,35,1.0,Brighton,4.9,2.999064794112114,3,False,1
+James Justin,35,1.0,Leicester,4.8,0.94817599595278,0,False,1
+Heung-Min Son,35,2.0,Tottenham Hotspur,9.6,7.147460841645815,7,False,1
+Jesse Lingard,35,2.0,West Ham United,6.6,5.476355165476036,1,False,1
+Riyad Mahrez,35,2.0,Manchester City,8.0,1.230784691604954,0,False,1
+Ilkay GÃ¼ndogan,35,2.0,Manchester City,5.6,0.7960020829093019,1,False,1
+Kelechi Iheanacho,35,3.0,Leicester,6.3,6.591566324650711,7,False,1
+Patrick Bamford,35,3.0,Leeds United,6.4,3.550305978446527,9,False,1
+Jamie Vardy,35,3.0,Leicester,10.3,7.34320967391892,5,True,1
+Mason Greenwood,35,2.0,Manchester United,7.1,0.0,10,False,0
+Luke Shaw,35,1.0,Manchester United,5.4,0.0,2,False,0
+Edouard Mendy,35,0.0,Chelsea,5.2,2.942159187430036,11,False,0
+Andrew Robertson,35,1.0,Liverpool,7.1,0.0,6,False,0
+Emiliano MartÃ­nez,36,0.0,Aston Villa,5.4,3.5185841482929274,2,False,1
+Andrew Robertson,36,1.0,Liverpool,7.1,4.185718890240922,2,False,1
+Aaron Cresswell,36,1.0,West Ham United,5.6,3.7734498181611102,3,False,1
+Lewis Dunk,36,1.0,Brighton,4.9,1.6992343118891964,0,False,1
+Mohamed Salah,36,2.0,Liverpool,12.7,11.496192164282284,10,True,1
+Heung-Min Son,36,2.0,Tottenham Hotspur,9.6,9.377702089276491,3,False,1
+Jesse Lingard,36,2.0,West Ham United,6.6,3.064878317870257,2,False,1
+Ilkay GÃ¼ndogan,36,2.0,Manchester City,5.6,2.5541061137903456,5,False,1
+Jamie Vardy,36,3.0,Leicester,10.3,0.0,0,False,1
+Kelechi Iheanacho,36,3.0,Leicester,6.3,0.0,0,False,1
+Patrick Bamford,36,3.0,Leeds United,6.4,3.990050038412369,1,False,1
+James Justin,36,1.0,Leicester,4.8,0.0,0,False,0
+Edouard Mendy,36,0.0,Chelsea,5.2,0.0,0,False,0
+Mason Greenwood,36,2.0,Manchester United,7.1,0.0,0,False,0
+Luke Shaw,36,1.0,Manchester United,5.4,0.0,0,False,0
+Emiliano MartÃ­nez,37,0.0,Aston Villa,5.4,3.670766602735688,3,False,1
+Andrew Robertson,37,1.0,Liverpool,7.2,5.011805846762662,15,False,1
+Aaron Cresswell,37,1.0,West Ham United,5.6,3.800520522803191,5,False,1
+Lewis Dunk,37,1.0,Brighton,4.8,0.7642733629673785,0,False,1
+Mohamed Salah,37,2.0,Liverpool,12.8,7.691035760875441,3,True,1
+Heung-Min Son,37,2.0,Tottenham Hotspur,9.7,6.66147438147419,2,False,1
+Jesse Lingard,37,2.0,West Ham United,6.6,5.317720303504708,7,False,1
+Ilkay GÃ¼ndogan,37,2.0,Manchester City,5.6,4.209527616717695,7,False,1
+Patrick Bamford,37,3.0,Leeds United,6.5,4.739313895791456,12,False,1
+Kelechi Iheanacho,37,3.0,Leicester,6.3,0.0,6,False,1
+Dominic Calvert-Lewin,37,3.0,Everton,7.6,6.515591711382766,2,False,1
+Edouard Mendy,37,0.0,Chelsea,5.2,0.0,1,False,0
+James Justin,37,1.0,Leicester,4.8,0.0,0,False,0
+Mason Greenwood,37,2.0,Manchester United,7.1,0.0,2,False,0
+Luke Shaw,37,1.0,Manchester United,5.4,0.0,1,False,0
+Emiliano MartÃ­nez,38,0.0,Aston Villa,5.3,3.7359754526407536,3,False,1
+Andrew Robertson,38,1.0,Liverpool,7.3,6.969999955072062,8,False,1
+Trent Alexander-Arnold,38,1.0,Liverpool,7.8,5.960726482081904,5,False,1
+Aaron Cresswell,38,1.0,West Ham United,5.7,4.5831292184553645,6,False,1
+Mohamed Salah,38,2.0,Liverpool,12.9,9.603700566460043,6,True,1
+Heung-Min Son,38,2.0,Tottenham Hotspur,9.6,5.5680004685448905,5,False,1
+Jesse Lingard,38,2.0,West Ham United,6.6,5.509240966432872,3,False,1
+Ilkay GÃ¼ndogan,38,2.0,Manchester City,5.5,4.780030081178279,0,False,1
+Dominic Calvert-Lewin,38,3.0,Everton,7.5,6.156378655994947,2,False,1
+Kelechi Iheanacho,38,3.0,Leicester,6.2,4.722634938840399,2,False,1
+Patrick Bamford,38,3.0,Leeds United,6.6,8.75177610203201,6,False,1
+Lewis Dunk,38,1.0,Brighton,4.8,1.136904735812029,1,False,0
+Mason Greenwood,38,2.0,Manchester United,7.3,4.3893986437369055,0,False,0
+Edouard Mendy,38,0.0,Chelsea,5.3,3.062062409162493,1,False,0
+Luke Shaw,38,1.0,Manchester United,5.5,4.322931974379884,0,False,0

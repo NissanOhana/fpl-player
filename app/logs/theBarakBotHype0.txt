@@ -1,0 +1,1210 @@
+####################################################
+user: theBarakBotHype0, start cycle:1
+####################################################
+cycle num: 1
+unused budget: 0.0
+total team value: 100.00
+last cycle score: 85 (85 in total)
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Pierre-Emerick Aubameyang
+GK:
+Bernd Leno   team: Arsenal    score: 7(3.847826086956522)    value: 5.0
+DEF:
+Virgil van Dijk   team: Liverpool    score: 7(4.108695652173913)    value: 6.5
+Stuart Dallas   team: Leeds United    score: 3(3.5869565217391304)    value: 4.5
+Matt Doherty   team: Tottenham Hotspur    score: 2(3.5217391304347827)    value: 6.0
+MID:
+Pierre-Emerick Aubameyang   team: Arsenal    score: 7(6.065217391304348)    value: 12.0
+Mohamed Salah   team: Liverpool    score: 20(4.804347826086956)    value: 12.0
+Jack Harrison   team: Leeds United    score: 7(3.804347826086957)    value: 5.5
+Adama TraorÃ©   team: Wolverhampton    score: 3(3.282608695652174)    value: 6.5
+FWD:
+RaÃºl JimÃ©nez   team: Wolverhampton    score: 8(5.130434782608695)    value: 8.5
+Patrick Bamford   team: Leeds United    score: 7(4.043478260869565)    value: 5.5
+Alexandre Lacazette   team: Arsenal    score: 7(5.521739130434782)    value: 8.5
+subs:
+Allan Saint-Maximin   team: Newcastle United    score: 3(2.565217391304348)    value: 5.5
+Alex McCarthy   team: Southampton    score: 2(2.869565217391304)    value: 4.5
+Tyrick Mitchell   team: Crystal Palace    score: 6(1.9130434782608696)    value: 4.0
+Ãaglar SÃ¶yÃ¼ncÃ¼   team: Leicester    score: 6(2.4782608695652173)    value: 5.5
+####################################################
+cycle num: 2
+unused budget: 1.5
+total team value: 98.60
+last cycle score: 48 (133 in total)
+1 trade(s) was commited
+bought:
+Romain SaÃ¯ss for 5.0
+sold:
+Virgil van Dijk for 6.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Pierre-Emerick Aubameyang
+GK:
+Bernd Leno   team: Arsenal    score: 2(4.070962739533819)    value: 5.0
+DEF:
+Stuart Dallas   team: Leeds United    score: 1(4.077224039818099)    value: 4.5
+Romain SaÃ¯ss   team: Wolverhampton    score: 1(3.7021163111088713)    value: 5.0
+Matt Doherty   team: Tottenham Hotspur    score: 0(3.6751412408658495)    value: 6.0
+MID:
+Pierre-Emerick Aubameyang   team: Arsenal    score: 5(6.969957680371677)    value: 12.0
+Mohamed Salah   team: Liverpool    score: 3(5.126736205034428)    value: 12.0
+Jack Harrison   team: Leeds United    score: 2(4.120011947656647)    value: 5.5
+Adama TraorÃ©   team: Wolverhampton    score: 2(2.9622670873599053)    value: 6.5
+FWD:
+RaÃºl JimÃ©nez   team: Wolverhampton    score: 6(5.039779683295298)    value: 8.5
+Patrick Bamford   team: Leeds United    score: 14(3.962471652990351)    value: 5.6
+Alexandre Lacazette   team: Arsenal    score: 7(5.620600587400742)    value: 8.5
+subs:
+Alex McCarthy   team: Southampton    score: 0(2.7129162650957395)    value: 4.5
+Allan Saint-Maximin   team: Newcastle United    score: 1(2.614441000403384)    value: 5.5
+Tyrick Mitchell   team: Crystal Palace    score: 5(1.5274844786642532)    value: 4.0
+Ãaglar SÃ¶yÃ¼ncÃ¼   team: Leicester    score: 1(2.201397522142514)    value: 5.5
+####################################################
+cycle num: 3
+unused budget: 0.0
+total team value: 100.30
+last cycle score: 71 (204 in total)
+bench boost cheap was used!
+1 trade(s) was commited
+bought:
+Jamie Vardy for 10.0
+sold:
+RaÃºl JimÃ©nez for 8.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Bernd Leno   team: Arsenal    score: 3(3.794580834586301)    value: 5.0
+DEF:
+Matt Doherty   team: Tottenham Hotspur    score: 2(3.806388017363196)    value: 6.0
+Ãaglar SÃ¶yÃ¼ncÃ¼   team: Leicester    score: 0(5.35687691459768)    value: 5.5
+Stuart Dallas   team: Leeds United    score: 6(5.311062522352138)    value: 4.5
+Tyrick Mitchell   team: Crystal Palace    score: 1(3.925015617194996)    value: 4.1
+MID:
+Mohamed Salah   team: Liverpool    score: 5(8.666325431578905)    value: 12.1
+Pierre-Emerick Aubameyang   team: Arsenal    score: 2(7.700387904337773)    value: 11.9
+Adama TraorÃ©   team: Wolverhampton    score: 2(3.847717214961869)    value: 6.5
+FWD:
+Alexandre Lacazette   team: Arsenal    score: 7(6.405688724017274)    value: 8.5
+Patrick Bamford   team: Leeds United    score: 8(5.300735890662491)    value: 5.7
+Jamie Vardy   team: Leicester    score: 17(7.512853370176773)    value: 10.0
+subs:
+Jack Harrison   team: Leeds United    score: 7(3.605478400781208)    value: 5.5
+Romain SaÃ¯ss   team: Wolverhampton    score: 0(3.164146051977605)    value: 5.1
+Alex McCarthy   team: Southampton    score: 6(3.5150144409211093)    value: 4.5
+Allan Saint-Maximin   team: Newcastle United    score: 0(2.5947194829713043)    value: 5.4
+####################################################
+cycle num: 4
+unused budget: 0.0
+total team value: 100.50
+last cycle score: 34 (238 in total)
+1 trade(s) was commited
+bought:
+Danny Ings for 8.5
+sold:
+Alexandre Lacazette for 8.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Danny Ings
+GK:
+Bernd Leno   team: Arsenal    score: 2(3.864619018522373)    value: 5.0
+DEF:
+Romain SaÃ¯ss   team: Wolverhampton    score: 8(4.033961135719048)    value: 5.1
+Stuart Dallas   team: Leeds United    score: 1(6.599243788159583)    value: 4.5
+Matt Doherty   team: Tottenham Hotspur    score: 0(4.165880211390622)    value: 5.9
+Tyrick Mitchell   team: Crystal Palace    score: 0(4.090354716660346)    value: 4.1
+MID:
+Mohamed Salah   team: Liverpool    score: 13(7.142417226075666)    value: 12.2
+Pierre-Emerick Aubameyang   team: Arsenal    score: 2(6.599207919952944)    value: 11.9
+Adama TraorÃ©   team: Wolverhampton    score: 1(2.975562868702048)    value: 6.5
+FWD:
+Patrick Bamford   team: Leeds United    score: 1(7.055765527290018)    value: 5.8
+Jamie Vardy   team: Leicester    score: 2(6.8819285896928415)    value: 10.1
+Danny Ings   team: Southampton    score: 2(7.156715036378546)    value: 8.5
+subs:
+Ãaglar SÃ¶yÃ¼ncÃ¼   team: Leicester    score: 1(2.835642815587063)    value: 5.5
+Alex McCarthy   team: Southampton    score: 9(3.7987363755206194)    value: 4.5
+Allan Saint-Maximin   team: Newcastle United    score: 12(0.819291758172163)    value: 5.4
+Jack Harrison   team: Leeds United    score: 0(2.690040723346707)    value: 5.5
+####################################################
+cycle num: 5
+unused budget: 0.19999999999999307
+total team value: 100.10
+last cycle score: 66 (304 in total)
+wild card cheap was used!
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Pierre-Emerick Aubameyang
+GK:
+Bernd Leno   team: Arsenal    score: 3(3.902993148589044)    value: 5.0
+DEF:
+Andrew Robertson   team: Liverpool    score: 6(5.937792726016306)    value: 7.0
+Luke Ayling   team: Leeds United    score: 1(5.577504657724801)    value: 4.5
+Stuart Dallas   team: Leeds United    score: 2(5.447069875116105)    value: 4.5
+MID:
+Pierre-Emerick Aubameyang   team: Arsenal    score: 2(8.186276415779798)    value: 11.8
+Heung-Min Son   team: Tottenham Hotspur    score: 13(7.134975905943763)    value: 9.2
+Wilfried Zaha   team: Crystal Palace    score: 9(6.744705358400786)    value: 7.2
+James RodrÃ­guez   team: Everton    score: 4(6.019491805086491)    value: 7.9
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(6.5122872664204525)    value: 5.8
+Dominic Calvert-Lewin   team: Everton    score: 6(6.0925314453573085)    value: 7.6
+Harry Kane   team: Tottenham Hotspur    score: 16(7.634975905943763)    value: 10.6
+subs:
+Oriol Romeu Vidal   team: Southampton    score: 1(4.352291104410504)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 1(4.5696824087583305)    value: 5.0
+Alex McCarthy   team: Southampton    score: 1(3.037811662164621)    value: 4.5
+Michael Keane   team: Everton    score: 8(2.476401621817488)    value: 5.0
+####################################################
+cycle num: 6
+unused budget: 1.4999999999999938
+total team value: 99.60
+last cycle score: 68 (372 in total)
+1 trade(s) was commited
+bought:
+Bruno Miguel Borges Fernandes for 10.5
+sold:
+Pierre-Emerick Aubameyang for 11.8
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Bernd Leno   team: Arsenal    score: 2(3.677311238399476)    value: 5.0
+DEF:
+Luke Ayling   team: Leeds United    score: 6(5.273156831637843)    value: 4.5
+Andrew Robertson   team: Liverpool    score: 2(4.567160686092234)    value: 7.1
+Michael Keane   team: Everton    score: 1(4.555765527290018)    value: 5.1
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(7.895845471161155)    value: 10.5
+Heung-Min Son   team: Tottenham Hotspur    score: 11(7.765410688552459)    value: 9.4
+Wilfried Zaha   team: Crystal Palace    score: 13(5.991616663098237)    value: 7.2
+James RodrÃ­guez   team: Everton    score: 2(5.610638946961799)    value: 8.0
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 1(6.467354105417558)    value: 7.7
+Patrick Bamford   team: Leeds United    score: 17(6.251417701203062)    value: 5.8
+Harry Kane   team: Tottenham Hotspur    score: 5(8.61323677550898)    value: 10.8
+subs:
+Stuart Dallas   team: Leeds United    score: 6(3.851224281877737)    value: 4.5
+Alex McCarthy   team: Southampton    score: 6(3.112093847095128)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 3(2.786006890573389)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 6(1.863031464654633)    value: 5.0
+####################################################
+cycle num: 7
+unused budget: 1.0999999999999934
+total team value: 100.40
+last cycle score: 45 (417 in total)
+1 trade(s) was commited
+bought:
+Riyad Mahrez for 8.4
+sold:
+James RodrÃ­guez for 8.0
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Bernd Leno   team: Arsenal    score: 7(3.576228814494132)    value: 5.0
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(7.198662291233697)    value: 7.1
+Stuart Dallas   team: Leeds United    score: 6(3.211724705642882)    value: 4.5
+Luke Ayling   team: Leeds United    score: 0(3.037811662164621)    value: 4.5
+MID:
+Heung-Min Son   team: Tottenham Hotspur    score: 2(8.35236721029159)    value: 9.5
+Wilfried Zaha   team: Crystal Palace    score: 1(7.076049757591471)    value: 7.3
+Riyad Mahrez   team: Manchester City    score: 3(6.35236721029159)    value: 8.4
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 2(6.3433655698618905)    value: 10.5
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(5.294895962072627)    value: 5.9
+Dominic Calvert-Lewin   team: Everton    score: 8(4.839837434086521)    value: 7.7
+Harry Kane   team: Tottenham Hotspur    score: 6(8.85236721029159)    value: 10.9
+subs:
+Michael Keane   team: Everton    score: 1(2.8180541244341)    value: 5.1
+Alex McCarthy   team: Southampton    score: 3(2.5839509047778297)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 2(2.755202966512447)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 2(2.866559600430004)    value: 5.0
+####################################################
+cycle num: 8
+unused budget: 1.9999999999999938
+total team value: 99.80
+last cycle score: 69 (486 in total)
+1 trade(s) was commited
+bought:
+Jack Grealish for 7.4
+sold:
+Riyad Mahrez for 8.3
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Alex McCarthy   team: Southampton    score: 6(2.578923689651491)    value: 4.5
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(4.0557296590833785)    value: 7.1
+Stuart Dallas   team: Leeds United    score: 0(3.2022961394361245)    value: 4.5
+Luke Ayling   team: Leeds United    score: 0(3.1067917552919653)    value: 4.5
+MID:
+Wilfried Zaha   team: Crystal Palace    score: 5(6.967354105417558)    value: 7.4
+Jack Grealish   team: Aston Villa    score: 6(6.315180192374078)    value: 7.4
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 17(6.183469566534714)    value: 10.5
+Heung-Min Son   team: Tottenham Hotspur    score: 3(6.04542155565745)    value: 9.6
+FWD:
+Patrick Bamford   team: Leeds United    score: 7(6.686200309898714)    value: 6.0
+Dominic Calvert-Lewin   team: Everton    score: 5(5.706484540200166)    value: 7.7
+Harry Kane   team: Tottenham Hotspur    score: 9(8.526280253769851)    value: 11.0
+subs:
+Bernd Leno   team: Arsenal    score: 2(2.5160725317298387)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 2(2.035445428781926)    value: 4.5
+Michael Keane   team: Everton    score: 1(2.535445428781926)    value: 5.1
+Ryan Bertrand   team: Southampton    score: 0(2.3529026743020416)    value: 5.0
+####################################################
+cycle num: 9
+unused budget: 2.899999999999994
+total team value: 99.40
+last cycle score: 71 (557 in total)
+1 trade(s) was commited
+bought:
+Jamie Vardy for 10.1
+sold:
+Harry Kane for 11.0
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Alex McCarthy   team: Southampton    score: 7(2.36389861868636)    value: 4.5
+DEF:
+Andrew Robertson   team: Liverpool    score: 12(4.360077485170335)    value: 7.1
+Stuart Dallas   team: Leeds United    score: 5(3.647707448649945)    value: 4.5
+Luke Ayling   team: Leeds United    score: 6(3.122083884271293)    value: 4.5
+MID:
+Heung-Min Son   team: Tottenham Hotspur    score: 10(8.330628079856806)    value: 9.5
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 11(7.057629779404992)    value: 10.7
+Wilfried Zaha   team: Crystal Palace    score: 0(6.797561156814949)    value: 7.4
+Jack Grealish   team: Aston Villa    score: 1(6.793441061939296)    value: 7.6
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(5.767899388968899)    value: 6.1
+Dominic Calvert-Lewin   team: Everton    score: 13(3.72964270256164)    value: 7.8
+Jamie Vardy   team: Leicester    score: 2(8.50000177941135)    value: 10.1
+subs:
+Bernd Leno   team: Arsenal    score: 10(2.053300125272839)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 2(2.62208150252364)    value: 4.5
+Michael Keane   team: Everton    score: 1(2.100662820086274)    value: 5.1
+Ryan Bertrand   team: Southampton    score: 2(1.1120066352449505)    value: 5.0
+####################################################
+cycle num: 10
+unused budget: 2.2999999999999936
+total team value: 100.20
+last cycle score: 56 (613 in total)
+1 trade(s) was commited
+bought:
+James RodrÃ­guez for 7.9
+sold:
+Wilfried Zaha for 7.3
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Alex McCarthy   team: Southampton    score: 2(3.5137062983471434)    value: 4.5
+DEF:
+Stuart Dallas   team: Leeds United    score: 8(4.5122872664204525)    value: 4.5
+Andrew Robertson   team: Liverpool    score: 2(4.188401539933408)    value: 7.1
+Luke Ayling   team: Leeds United    score: 5(2.811671393292371)    value: 4.5
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 10(8.188064562013688)    value: 10.8
+James RodrÃ­guez   team: Everton    score: 2(6.947403121216664)    value: 7.9
+Jack Grealish   team: Aston Villa    score: 10(6.414986773048756)    value: 7.6
+Heung-Min Son   team: Tottenham Hotspur    score: 3(6.058098444943141)    value: 9.5
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 2(6.838940326698513)    value: 7.9
+Patrick Bamford   team: Leeds United    score: 2(6.794895962072627)    value: 6.1
+Jamie Vardy   team: Leicester    score: 5(8.73913221419396)    value: 10.2
+subs:
+Bernd Leno   team: Arsenal    score: 2(3.417576928581279)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 2(2.165880211390621)    value: 4.5
+Michael Keane   team: Everton    score: 2(2.223298596734715)    value: 5.1
+Ryan Bertrand   team: Southampton    score: 1(2.2442070221281285)    value: 5.0
+####################################################
+cycle num: 11
+unused budget: 0.39999999999999325
+total team value: 102.50
+last cycle score: 67 (680 in total)
+1 trade(s) was commited
+bought:
+Marcus Rashford for 9.5
+sold:
+Jack Grealish for 7.6
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Alex McCarthy   team: Southampton    score: 2(2.448488907042796)    value: 4.6
+DEF:
+Andrew Robertson   team: Liverpool    score: 6(4.686164441692074)    value: 7.2
+Stuart Dallas   team: Leeds United    score: 1(3.1491682960821774)    value: 4.5
+Luke Ayling   team: Leeds United    score: 1(2.6220815025236406)    value: 4.5
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 6(8.156715036378547)    value: 10.9
+Marcus Rashford   team: Manchester United    score: 6(6.85236721029159)    value: 9.5
+James RodrÃ­guez   team: Everton    score: 2(5.6617304360999325)    value: 7.8
+Heung-Min Son   team: Tottenham Hotspur    score: 13(5.2564090481227606)    value: 9.5
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 6(6.6630062793306015)    value: 8.0
+Patrick Bamford   team: Leeds United    score: 8(5.599243788159583)    value: 6.1
+Jamie Vardy   team: Leicester    score: 8(9.099319894040669)    value: 10.3
+subs:
+Bernd Leno   team: Arsenal    score: 1(1.902315771015871)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 1(2.383271515738448)    value: 4.5
+Michael Keane   team: Everton    score: 2(2.100662820086274)    value: 5.1
+Ryan Bertrand   team: Southampton    score: 2(2.548554848215085)    value: 5.0
+####################################################
+cycle num: 12
+unused budget: 0.9999999999999938
+total team value: 102.00
+last cycle score: 70 (750 in total)
+1 trade(s) was commited
+bought:
+Mason Greenwood for 7.1
+sold:
+James RodrÃ­guez for 7.7
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Alex McCarthy   team: Southampton    score: 6(3.7465070135169927)    value: 4.6
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(4.381371064153966)    value: 7.2
+Michael Keane   team: Everton    score: 6(3.524578343237936)    value: 5.1
+Ryan Bertrand   team: Southampton    score: 6(3.1767522562814143)    value: 5.0
+MID:
+Marcus Rashford   team: Manchester United    score: 3(5.824944221423743)    value: 9.4
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(5.579546155499704)    value: 10.9
+Mason Greenwood   team: Manchester United    score: 3(5.507674335777782)    value: 7.1
+Heung-Min Son   team: Tottenham Hotspur    score: 5(4.809330850257746)    value: 9.6
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 5(6.624287363556679)    value: 8.0
+Patrick Bamford   team: Leeds United    score: 5(4.691071385516117)    value: 6.2
+Jamie Vardy   team: Leicester    score: 13(6.799731413049354)    value: 10.3
+subs:
+Luke Ayling   team: Leeds United    score: 1(2.3881513494862663)    value: 4.5
+Stuart Dallas   team: Leeds United    score: 1(2.840133738883436)    value: 4.6
+Bernd Leno   team: Arsenal    score: 2(3.0666017588957586)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 7(2.350665299759675)    value: 4.5
+####################################################
+cycle num: 13
+unused budget: 0.2999999999999936
+total team value: 102.80
+last cycle score: 59 (809 in total)
+1 trade(s) was commited
+bought:
+Jack Grealish for 7.8
+sold:
+Mason Greenwood for 7.1
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Alex McCarthy   team: Southampton    score: 3(3.963567111484309)    value: 4.6
+DEF:
+Andrew Robertson   team: Liverpool    score: 5(5.033544977197444)    value: 7.2
+Ryan Bertrand   team: Southampton    score: 1(3.3118651826867893)    value: 5.0
+Stuart Dallas   team: Leeds United    score: 7(2.601003304100827)    value: 4.6
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 2(7.791814037444371)    value: 11.0
+Heung-Min Son   team: Tottenham Hotspur    score: 9(6.555284107632227)    value: 9.6
+Jack Grealish   team: Aston Villa    score: 3(5.5694221342558174)    value: 7.8
+Marcus Rashford   team: Manchester United    score: 14(4.176836898584253)    value: 9.4
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 5(4.8737699603427735)    value: 7.9
+Patrick Bamford   team: Leeds United    score: 6(4.5711681637836605)    value: 6.3
+Jamie Vardy   team: Leicester    score: 2(8.049214009835449)    value: 10.3
+subs:
+Michael Keane   team: Everton    score: 6(2.529256487034615)    value: 5.1
+Bernd Leno   team: Arsenal    score: 2(3.63781136134308)    value: 5.0
+Luke Ayling   team: Leeds United    score: 1(2.149020914703658)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 2(3.1544795987681344)    value: 4.5
+####################################################
+cycle num: 14
+unused budget: 0.39999999999999325
+total team value: 102.80
+last cycle score: 84 (893 in total)
+1 trade(s) was commited
+bought:
+Emiliano MartÃ­nez for 4.9
+sold:
+Bernd Leno for 5.0
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 6(4.616072230908297)    value: 4.9
+DEF:
+Andrew Robertson   team: Liverpool    score: 10(5.381371064153966)    value: 7.2
+Stuart Dallas   team: Leeds United    score: 5(5.011900899368912)    value: 4.6
+Michael Keane   team: Everton    score: 2(4.494563804048016)    value: 5.1
+MID:
+Marcus Rashford   team: Manchester United    score: 2(6.574422733096545)    value: 9.5
+Jack Grealish   team: Aston Villa    score: 10(6.547683003821034)    value: 7.8
+Heung-Min Son   team: Tottenham Hotspur    score: 2(5.959459449781201)    value: 9.7
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 17(5.8213653437247945)    value: 11.0
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 4(5.525943873386252)    value: 7.9
+Patrick Bamford   team: Leeds United    score: 2(4.381354386238456)    value: 6.3
+Jamie Vardy   team: Leicester    score: 12(7.473644456527616)    value: 10.2
+subs:
+Alex McCarthy   team: Southampton    score: 3(3.898680926560471)    value: 4.6
+Ryan Bertrand   team: Southampton    score: 2(3.589795734542284)    value: 5.0
+Luke Ayling   team: Leeds United    score: -1(2.6868500781302265)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 1(3.19327971584102)    value: 4.5
+####################################################
+cycle num: 15
+unused budget: 0.09999999999999254
+total team value: 103.40
+last cycle score: 65 (958 in total)
+1 trade(s) was commited
+bought:
+Tyrone Mings for 5.4
+sold:
+Michael Keane for 5.1
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Heung-Min Son
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 10(4.332684642455293)    value: 4.9
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(5.148576499349929)    value: 7.3
+Stuart Dallas   team: Leeds United    score: 6(4.517158342037856)    value: 4.7
+Luke Ayling   team: Leeds United    score: 6(3.499958561336338)    value: 4.5
+MID:
+Heung-Min Son   team: Tottenham Hotspur    score: 3(7.443987950487847)    value: 9.7
+Marcus Rashford   team: Manchester United    score: 7(7.23413309291044)    value: 9.5
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 12(6.226691772778538)    value: 11.0
+Jack Grealish   team: Aston Villa    score: 2(5.982465612516687)    value: 7.8
+FWD:
+Patrick Bamford   team: Leeds United    score: 8(4.691071385516117)    value: 6.4
+Dominic Calvert-Lewin   team: Everton    score: 1(4.676696120718804)    value: 8.0
+Jamie Vardy   team: Leicester    score: 5(6.766605314183275)    value: 10.1
+subs:
+Alex McCarthy   team: Southampton    score: 6(4.072593970038732)    value: 4.6
+Oriol Romeu Vidal   team: Southampton    score: 0(2.372404430194458)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 6(3.2854479084553274)    value: 5.0
+Tyrone Mings   team: Aston Villa    score: -2(3.485637448299601)    value: 5.4
+####################################################
+cycle num: 16
+unused budget: 2.299999999999992
+total team value: 101.60
+last cycle score: 78 (1036 in total)
+1 trade(s) was commited
+bought:
+Wilfried Zaha for 7.5
+sold:
+Heung-Min Son for 9.7
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Alex McCarthy   team: Southampton    score: 9(4.4856374482996015)    value: 4.7
+DEF:
+Luke Ayling   team: Leeds United    score: 6(3.072734747904181)    value: 4.5
+Andrew Robertson   team: Liverpool    score: 9(5.272675411980053)    value: 7.3
+Ryan Bertrand   team: Southampton    score: 5(3.48577822616505)    value: 5.0
+Stuart Dallas   team: Leeds United    score: 12(3.333463535256123)    value: 4.7
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 6(7.509205341792195)    value: 11.1
+Marcus Rashford   team: Manchester United    score: 7(6.987466211357414)    value: 9.5
+Jack Grealish   team: Aston Villa    score: 2(6.1781177864297305)    value: 7.8
+Wilfried Zaha   team: Crystal Palace    score: 7(5.559069972252331)    value: 7.5
+FWD:
+Patrick Bamford   team: Leeds United    score: 8(6.081520325787146)    value: 6.5
+Jamie Vardy   team: Leicester    score: 1(6.973644456527615)    value: 10.1
+subs:
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(3.777950780919509)    value: 5.0
+Dominic Calvert-Lewin   team: Everton    score: 0(0.0)    value: 8.0
+Tyrone Mings   team: Aston Villa    score: 0(2.340293278050451)    value: 5.4
+Oriol Romeu Vidal   team: Southampton    score: 3(1.3765281124230098)    value: 4.5
+####################################################
+cycle num: 17
+unused budget: 0.39999999999999236
+total team value: 103.80
+last cycle score: 44 (1080 in total)
+1 trade(s) was commited
+bought:
+Trent Alexander-Arnold for 7.3
+sold:
+Tyrone Mings for 5.4
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Alex McCarthy   team: Southampton    score: 0(4.604037737441248)    value: 4.7
+DEF:
+Luke Ayling   team: Leeds United    score: 1(3.2683869218172243)    value: 4.5
+Andrew Robertson   team: Liverpool    score: 1(3.8745482415620938)    value: 7.4
+Trent Alexander-Arnold   team: Liverpool    score: 2(3.859631933719183)    value: 7.3
+Stuart Dallas   team: Leeds United    score: 1(3.495342085267336)    value: 4.8
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 10(8.20485751570524)    value: 11.2
+Marcus Rashford   team: Manchester United    score: 2(6.813553167879153)    value: 9.5
+Wilfried Zaha   team: Crystal Palace    score: 3(6.21124388529581)    value: 7.4
+Jack Grealish   team: Aston Villa    score: 7(6.059069972252331)    value: 7.7
+FWD:
+Jamie Vardy   team: Leicester    score: 5(4.090718083862747)    value: 10.2
+Patrick Bamford   team: Leeds United    score: 2(6.603259456221928)    value: 6.6
+subs:
+Ryan Bertrand   team: Southampton    score: 5(2.6671959596807984)    value: 5.0
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(4.333463535256123)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 0(2.833604313121572)    value: 4.5
+Dominic Calvert-Lewin   team: Everton    score: 2(0.0)    value: 8.0
+####################################################
+cycle num: 18
+unused budget: 5.773159728050814e-15
+total team value: 104.20
+last cycle score: 56 (1136 in total)
+free hit cheap was used!
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Jordan Pickford   team: Everton    score: 2(3.481100082368371)    value: 4.8
+DEF:
+Harry Maguire   team: Manchester United    score: 6(4.568056604107501)    value: 5.4
+RÃºben Santos Gato Alves Dias   team: Manchester City    score: 7(3.996539710250441)    value: 5.8
+JoÃ£o Pedro Cavaco Cancelo   team: Manchester City    score: 6(3.954149281058412)    value: 5.8
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 2(7.596161863531326)    value: 11.3
+Wilfried Zaha   team: Crystal Palace    score: 3(6.612900395125382)    value: 7.4
+Kevin De Bruyne   team: Manchester City    score: 6(6.443987950487849)    value: 11.8
+Heung-Min Son   team: Tottenham Hotspur    score: 2(6.074517859735058)    value: 9.8
+Paul Pogba   team: Manchester United    score: 11(5.746804770560391)    value: 7.7
+FWD:
+Neal Maupay   team: Brighton    score: 1(4.937965188566078)    value: 6.1
+Harry Kane   team: Tottenham Hotspur    score: 8(7.400604816256798)    value: 11.0
+subs:
+Rhian Brewster   team: Sheffield United    score: 1(2.0472398229931814)    value: 4.5
+Rob Holding   team: Arsenal    score: 6(3.224908660947659)    value: 4.5
+Tyrick Mitchell   team: Crystal Palace    score: 8(3.2465070135169927)    value: 3.9
+Robert SÃ¡nchez   team: Brighton    score: 3(2.470568521492132)    value: 4.4
+####################################################
+cycle num: 19
+unused budget: 1.799999999999991
+total team value: 102.30
+last cycle score: 40 (1176 in total)
+1 trade(s) was commited
+bought:
+Anthony Martial for 8.8
+sold:
+Jamie Vardy for 10.2
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Alex McCarthy   team: Southampton    score: 1(0.0)    value: 4.7
+DEF:
+Luke Ayling   team: Leeds United    score: 1(0.0)    value: 4.5
+Trent Alexander-Arnold   team: Liverpool    score: 6(0.0)    value: 7.3
+Stuart Dallas   team: Leeds United    score: 2(0.0)    value: 4.8
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(8.3787705591835)    value: 11.3
+Marcus Rashford   team: Manchester United    score: 2(5.837892803284401)    value: 9.6
+Wilfried Zaha   team: Crystal Palace    score: 0(5.460726482081904)    value: 7.3
+Jack Grealish   team: Aston Villa    score: 2(0.0)    value: 7.7
+FWD:
+Dominic Calvert-Lewin   team: Everton    score: 0(0.0)    value: 7.8
+Patrick Bamford   team: Leeds United    score: 2(0.0)    value: 6.6
+Anthony Martial   team: Manchester United    score: 2(6.661379254835674)    value: 8.8
+subs:
+Andrew Robertson   team: Liverpool    score: 6(0.0)    value: 7.4
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(0.0)    value: 5.0
+Oriol Romeu Vidal   team: Southampton    score: 0(0.0)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 0(0.0)    value: 5.0
+####################################################
+cycle num: 20
+unused budget: 0.29999999999999005
+total team value: 103.90
+last cycle score: 45 (1221 in total)
+1 trade(s) was commited
+bought:
+Roberto Firmino for 9.3
+sold:
+Dominic Calvert-Lewin for 7.8
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Alex McCarthy   team: Southampton    score: 1(4.0013843675914105)    value: 4.7
+DEF:
+Trent Alexander-Arnold   team: Liverpool    score: 14(3.215485600258645)    value: 7.3
+Andrew Robertson   team: Liverpool    score: 2(4.490066716327879)    value: 7.4
+Luke Ayling   team: Leeds United    score: 2(3.6498014549714553)    value: 4.5
+Stuart Dallas   team: Leeds United    score: 2(3.572593970038732)    value: 4.8
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 2(8.53094447222698)    value: 11.3
+Jack Grealish   team: Aston Villa    score: 8(5.881371064153966)    value: 7.7
+Marcus Rashford   team: Manchester United    score: 2(4.036080383650012)    value: 9.6
+FWD:
+Anthony Martial   team: Manchester United    score: 2(4.647593078111982)    value: 8.8
+Patrick Bamford   team: Leeds United    score: 1(4.406185616597958)    value: 6.7
+Roberto Firmino   team: Liverpool    score: 7(7.183118385270458)    value: 9.3
+subs:
+Wilfried Zaha   team: Crystal Palace    score: 7(0.8208073687974303)    value: 7.2
+Emiliano MartÃ­nez   team: Aston Villa    score: 1(3.795882231726439)    value: 5.1
+Oriol Romeu Vidal   team: Southampton    score: 0(1.056871648126693)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 0(2.873765493690479)    value: 5.0
+####################################################
+cycle num: 21
+unused budget: 2.09999999999999
+total team value: 102.10
+last cycle score: 60 (1281 in total)
+1 trade(s) was commited
+bought:
+Aaron Cresswell for 5.5
+sold:
+Trent Alexander-Arnold for 7.3
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 10(4.496845017858145)    value: 5.1
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(5.234408821985665)    value: 7.4
+Aaron Cresswell   team: West Ham United    score: 4(5.170085740194495)    value: 5.5
+Stuart Dallas   team: Leeds United    score: 7(3.289985274386558)    value: 4.8
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(8.835292298313936)    value: 11.4
+Jack Grealish   team: Aston Villa    score: 6(6.79820040703494)    value: 7.7
+Wilfried Zaha   team: Crystal Palace    score: 2(6.124287363556681)    value: 7.2
+Marcus Rashford   team: Manchester United    score: 3(5.734408821985665)    value: 9.6
+FWD:
+Anthony Martial   team: Manchester United    score: 1(4.999625301925233)    value: 8.8
+Patrick Bamford   team: Leeds United    score: 15(3.690157264958354)    value: 6.6
+Roberto Firmino   team: Liverpool    score: 4(6.770074907009587)    value: 9.4
+subs:
+Luke Ayling   team: Leeds United    score: 1(3.2854479084553274)    value: 4.5
+Alex McCarthy   team: Southampton    score: 3(3.631819150200106)    value: 4.6
+Oriol Romeu Vidal   team: Southampton    score: 2(0.94817599595278)    value: 4.5
+Ryan Bertrand   team: Southampton    score: 2(0.94817599595278)    value: 5.0
+####################################################
+cycle num: 22
+unused budget: 2.3999999999999906
+total team value: 101.90
+last cycle score: 82 (1363 in total)
+1 trade(s) was commited
+bought:
+Gabriel Fernando de Jesus for 9.2
+sold:
+Roberto Firmino for 9.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 4(4.973602954832552)    value: 5.1
+DEF:
+Andrew Robertson   team: Liverpool    score: 2(5.060495778507403)    value: 7.4
+Ryan Bertrand   team: Southampton    score: -2(4.150207309917806)    value: 5.0
+Aaron Cresswell   team: West Ham United    score: 1(3.7839930632435848)    value: 5.6
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 17(7.577023238067009)    value: 11.4
+Jack Grealish   team: Aston Villa    score: 6(6.25093628154527)    value: 7.8
+Marcus Rashford   team: Manchester United    score: 9(4.807130903327499)    value: 9.5
+Wilfried Zaha   team: Crystal Palace    score: 1(4.373769960342774)    value: 7.2
+FWD:
+Patrick Bamford   team: Leeds United    score: 5(6.027689902914094)    value: 6.6
+Anthony Martial   team: Manchester United    score: 13(5.259726830119396)    value: 8.7
+Gabriel Fernando de Jesus   team: Manchester City    score: 9(6.791814037444371)    value: 9.2
+subs:
+Stuart Dallas   team: Leeds United    score: 1(3.485637448299601)    value: 4.8
+Luke Ayling   team: Leeds United    score: 0(3.2854479084553274)    value: 4.5
+Alex McCarthy   team: Southampton    score: 0(4.594333100473515)    value: 4.6
+Oriol Romeu Vidal   team: Southampton    score: 0(3.155013125846632)    value: 4.5
+####################################################
+cycle num: 23
+unused budget: 3.4999999999999902
+total team value: 101.20
+last cycle score: 69 (1432 in total)
+1 trade(s) was commited
+bought:
+Dominic Calvert-Lewin for 7.6
+sold:
+Anthony Martial for 8.7
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Alex McCarthy   team: Southampton    score: 1(4.175305952468953)    value: 4.6
+DEF:
+Stuart Dallas   team: Leeds United    score: 12(3.578589868722099)    value: 4.8
+Aaron Cresswell   team: West Ham United    score: 9(5.4586866469896425)    value: 5.7
+Andrew Robertson   team: Liverpool    score: 0(5.277887082855229)    value: 7.4
+Ryan Bertrand   team: Southampton    score: 4(3.931237955581779)    value: 5.0
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 7(6.748430903213319)    value: 11.5
+Marcus Rashford   team: Manchester United    score: 5(6.400604816256798)    value: 9.6
+Jack Grealish   team: Aston Villa    score: 2(6.381371064153966)    value: 7.8
+FWD:
+Patrick Bamford   team: Leeds United    score: 6(5.778027907255248)    value: 6.7
+Dominic Calvert-Lewin   team: Everton    score: 12(5.71124388529581)    value: 7.6
+Gabriel Fernando de Jesus   team: Manchester City    score: 4(6.226596646140023)    value: 9.2
+subs:
+Wilfried Zaha   team: Crystal Palace    score: 0(3.409096271644981)    value: 7.2
+Emiliano MartÃ­nez   team: Aston Villa    score: 9(3.861099623030788)    value: 5.2
+Luke Ayling   team: Leeds United    score: 6(3.499958561336338)    value: 4.4
+Oriol Romeu Vidal   team: Southampton    score: 2(0.9699151263875628)    value: 4.5
+####################################################
+cycle num: 24
+unused budget: 0.1999999999999904
+total team value: 104.60
+last cycle score: 58 (1490 in total)
+1 trade(s) was commited
+bought:
+Harry Kane for 11.0
+sold:
+Dominic Calvert-Lewin for 7.7
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 12(3.886646433093423)    value: 5.2
+DEF:
+Ryan Bertrand   team: Southampton    score: 1(3.7090266351328296)    value: 5.0
+Andrew Robertson   team: Liverpool    score: 1(5.060495778507403)    value: 7.3
+Aaron Cresswell   team: West Ham United    score: 12(4.952048107677739)    value: 5.8
+Stuart Dallas   team: Leeds United    score: -1(3.9301246939629872)    value: 4.9
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 9(7.620501498936576)    value: 11.5
+Marcus Rashford   team: Manchester United    score: 2(6.726596646140021)    value: 9.6
+Jack Grealish   team: Aston Villa    score: 2(6.2650743081688605)    value: 7.8
+FWD:
+Harry Kane   team: Tottenham Hotspur    score: 2(6.726596646140021)    value: 11.0
+Gabriel Fernando de Jesus   team: Manchester City    score: 2(4.198926752194829)    value: 9.2
+Patrick Bamford   team: Leeds United    score: 2(6.743335177734078)    value: 6.8
+subs:
+Alex McCarthy   team: Southampton    score: 1(3.0013843675914105)    value: 4.5
+Wilfried Zaha   team: Crystal Palace    score: 0(1.1636643320357427)    value: 7.1
+Luke Ayling   team: Leeds United    score: 0(3.393610033550744)    value: 4.4
+Oriol Romeu Vidal   team: Southampton    score: 1(2.687287504698047)    value: 4.5
+####################################################
+cycle num: 25
+unused budget: 0.1999999999999904
+total team value: 104.90
+last cycle score: 68 (1558 in total)
+1 trade(s) was commited
+bought:
+Raheem Sterling for 11.6
+sold:
+Bruno Miguel Borges Fernandes for 11.6
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Marcus Rashford
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 2(4.538820346136901)    value: 5.3
+DEF:
+Ryan Bertrand   team: Southampton    score: 2(2.49684700166018)    value: 5.0
+Andrew Robertson   team: Liverpool    score: 1(5.181587379256043)    value: 7.3
+Aaron Cresswell   team: West Ham United    score: 2(4.930308977242956)    value: 5.8
+Stuart Dallas   team: Leeds United    score: 2(3.583801539597275)    value: 5.0
+MID:
+Marcus Rashford   team: Manchester United    score: 12(6.965727080922632)    value: 9.6
+Raheem Sterling   team: Manchester City    score: 8(6.726596646140023)    value: 11.6
+Jack Grealish   team: Aston Villa    score: 0(5.103195146576138)    value: 7.7
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(5.841678667904505)    value: 6.9
+Gabriel Fernando de Jesus   team: Manchester City    score: 1(4.608320954099147)    value: 9.2
+Harry Kane   team: Tottenham Hotspur    score: 2(6.462906256906849)    value: 11.0
+subs:
+Wilfried Zaha   team: Crystal Palace    score: 0(1.7834759567536869)    value: 7.1
+Luke Ayling   team: Leeds United    score: 2(2.2577165668775705)    value: 4.4
+Alex McCarthy   team: Southampton    score: 1(3.2187756719392366)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 2(2.3446730886167013)    value: 4.5
+####################################################
+cycle num: 26
+unused budget: 0.1999999999999904
+total team value: 104.80
+last cycle score: 70 (1628 in total)
+1 trade(s) was commited
+bought:
+Bruno Miguel Borges Fernandes for 11.6
+sold:
+Raheem Sterling for 11.6
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 10(4.062062409162492)    value: 5.3
+DEF:
+Luke Ayling   team: Leeds United    score: 2(3.5628449332323253)    value: 4.4
+Ryan Bertrand   team: Southampton    score: 2(2.893812354248731)    value: 5.0
+Aaron Cresswell   team: West Ham United    score: 1(4.676077951337469)    value: 5.8
+Andrew Robertson   team: Liverpool    score: 7(4.642240629371357)    value: 7.2
+Stuart Dallas   team: Leeds United    score: 2(4.594333100473515)    value: 5.0
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(7.335292298313936)    value: 11.6
+Marcus Rashford   team: Manchester United    score: 3(5.683118385270456)    value: 9.6
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(5.9721134505132)    value: 6.9
+Gabriel Fernando de Jesus   team: Manchester City    score: 1(3.5207592479251515)    value: 9.2
+Harry Kane   team: Tottenham Hotspur    score: 6(7.400509689618284)    value: 11.1
+subs:
+Jack Grealish   team: Aston Villa    score: 0(1.3710660468764284)    value: 7.6
+Wilfried Zaha   team: Crystal Palace    score: 0(1.2338508470582996)    value: 7.1
+Alex McCarthy   team: Southampton    score: 0(3.463898317864819)    value: 4.5
+Oriol Romeu Vidal   team: Southampton    score: 0(2.6332739954118485)    value: 4.5
+####################################################
+cycle num: 27
+unused budget: 1.1999999999999904
+total team value: 103.80
+last cycle score: 59 (1687 in total)
+1 trade(s) was commited
+bought:
+Jamie Vardy for 10.2
+sold:
+Harry Kane for 11.2
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Marcus Rashford
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 7(4.060559476571683)    value: 5.3
+DEF:
+Aaron Cresswell   team: West Ham United    score: 12(4.300520522803191)    value: 5.8
+Ryan Bertrand   team: Southampton    score: 8(3.466865641971076)    value: 5.0
+Andrew Robertson   team: Liverpool    score: 2(4.551152596647347)    value: 7.2
+Stuart Dallas   team: Leeds United    score: 1(4.3769417961256885)    value: 5.0
+Luke Ayling   team: Leeds United    score: 1(4.3537768594358335)    value: 4.4
+MID:
+Marcus Rashford   team: Manchester United    score: 6(6.313553167879152)    value: 9.6
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 10(6.066494530660597)    value: 11.6
+FWD:
+Patrick Bamford   team: Leeds United    score: 2(5.4721134505132)    value: 6.8
+Gabriel Fernando de Jesus   team: Manchester City    score: 2(3.088815115597883)    value: 9.2
+Jamie Vardy   team: Leicester    score: 2(6.2126696915508814)    value: 10.2
+subs:
+Jack Grealish   team: Aston Villa    score: 0(1.0232399599199065)    value: 7.6
+Oriol Romeu Vidal   team: Southampton    score: 0(1.0984469407313948)    value: 4.5
+Alex McCarthy   team: Southampton    score: 0(1.2940991146444385)    value: 4.5
+Wilfried Zaha   team: Crystal Palace    score: 1(1.566084652405861)    value: 7.1
+####################################################
+cycle num: 28
+unused budget: 1.1999999999999904
+total team value: 103.70
+last cycle score: 61 (1748 in total)
+1 trade(s) was commited
+bought:
+Willian Borges Da Silva for 7.5
+sold:
+Jack Grealish for 7.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(4.355202665690905)    value: 5.4
+DEF:
+Ryan Bertrand   team: Southampton    score: 4(3.430308977242956)    value: 5.0
+Stuart Dallas   team: Leeds United    score: 6(4.670085740194495)    value: 5.0
+Aaron Cresswell   team: West Ham United    score: 2(4.2127333896151615)    value: 5.8
+Andrew Robertson   team: Liverpool    score: 6(4.033544977197444)    value: 7.2
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(5.570200415475137)    value: 11.5
+Willian Borges Da Silva   team: Arsenal    score: 1(4.795088847358781)    value: 7.5
+Marcus Rashford   team: Manchester United    score: 2(4.7126696915508814)    value: 9.6
+FWD:
+Patrick Bamford   team: Leeds United    score: 1(5.450374320078418)    value: 6.8
+Gabriel Fernando de Jesus   team: Manchester City    score: 7(5.347451388881755)    value: 9.2
+Jamie Vardy   team: Leicester    score: 13(5.973539256768273)    value: 10.2
+subs:
+Luke Ayling   team: Leeds United    score: 6(3.2608281265537298)    value: 4.4
+Oriol Romeu Vidal   team: Southampton    score: 0(1.1468943253191697)    value: 4.5
+Alex McCarthy   team: Southampton    score: 0(1.2555899774930823)    value: 4.5
+Wilfried Zaha   team: Crystal Palace    score: 6(2.6672895724397647)    value: 7.1
+####################################################
+cycle num: 29
+unused budget: 9.999999999999973
+total team value: 95.00
+last cycle score: 73 (1821 in total)
+wild card cheap was used!
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 1(4.746507013516992)    value: 5.4
+DEF:
+Aaron Cresswell   team: West Ham United    score: 0(4.833463535256123)    value: 5.9
+Stuart Dallas   team: Leeds United    score: 2(4.594333100473515)    value: 5.1
+Lewis Dunk   team: Brighton    score: 6(4.096630003063221)    value: 5.0
+MID:
+Anwar El Ghazi   team: Aston Villa    score: 1(4.875515989870617)    value: 5.3
+Leandro Trossard   team: Brighton    score: 14(4.7488039161067)    value: 5.8
+Jarrod Bowen   team: West Ham United    score: 8(4.389337744700415)    value: 5.9
+Raphael Dias Belloli   team: Leeds United    score: 8(4.280642092526502)    value: 5.6
+FWD:
+Alexandre Lacazette   team: Arsenal    score: 11(5.015591711382767)    value: 8.1
+Neal Maupay   team: Brighton    score: 8(4.661847394367569)    value: 6.1
+Harry Kane   team: Tottenham Hotspur    score: 7(6.586581823664363)    value: 11.5
+subs:
+Kieran Tierney   team: Arsenal    score: 1(3.432410150623629)    value: 5.2
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 1(2.492307651926914)    value: 5.5
+Gareth Bale   team: Tottenham Hotspur    score: 0(3.5803330507006343)    value: 9.6
+Lukasz Fabianski   team: West Ham United    score: 2(3.8071870388901097)    value: 5.0
+####################################################
+cycle num: 30
+unused budget: 8.099999999999973
+total team value: 97.20
+last cycle score: 52 (1873 in total)
+1 trade(s) was commited
+bought:
+Pierre-Emerick Aubameyang for 11.4
+sold:
+Gareth Bale for 9.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Harry Kane
+GK:
+Lukasz Fabianski   team: West Ham United    score: 2(3.0403252625297448)    value: 5.0
+DEF:
+Stuart Dallas   team: Leeds United    score: 2(5.050854839603949)    value: 5.1
+Lewis Dunk   team: Brighton    score: 1(4.150460425936273)    value: 5.0
+Aaron Cresswell   team: West Ham United    score: 1(3.805732193678367)    value: 5.9
+MID:
+Pierre-Emerick Aubameyang   team: Arsenal    score: 2(6.190930561116099)    value: 11.4
+Raphael Dias Belloli   team: Leeds United    score: 6(5.650207309917806)    value: 5.7
+Leandro Trossard   team: Brighton    score: 2(5.12872129550149)    value: 5.8
+Jarrod Bowen   team: West Ham United    score: 6(3.943911844606763)    value: 5.9
+FWD:
+Alexandre Lacazette   team: Arsenal    score: 2(5.776461276600157)    value: 8.2
+Neal Maupay   team: Brighton    score: 2(5.389590860718881)    value: 6.1
+Harry Kane   team: Tottenham Hotspur    score: 13(7.617900993966108)    value: 11.6
+subs:
+Emiliano MartÃ­nez   team: Aston Villa    score: 4(2.822931974379884)    value: 5.4
+Anwar El Ghazi   team: Aston Villa    score: 2(2.131845690047128)    value: 5.3
+Kieran Tierney   team: Arsenal    score: 1(3.517158342037856)    value: 5.3
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 1(2.9045589057137504)    value: 5.5
+####################################################
+cycle num: 31
+unused budget: 7.099999999999973
+total team value: 98.20
+last cycle score: 70 (1943 in total)
+1 trade(s) was commited
+bought:
+Mohamed Salah for 12.4
+sold:
+Pierre-Emerick Aubameyang for 11.4
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 4(4.893370314341809)    value: 5.4
+DEF:
+Stuart Dallas   team: Leeds United    score: 17(4.963898317864818)    value: 5.1
+Aaron Cresswell   team: West Ham United    score: 0(4.110080019765324)    value: 5.9
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 1(3.074052502790869)    value: 5.5
+MID:
+Mohamed Salah   team: Liverpool    score: 7(8.375300966357187)    value: 12.4
+Raphael Dias Belloli   team: Leeds United    score: 2(5.932816005569981)    value: 5.6
+Leandro Trossard   team: Brighton    score: 3(4.017236294434313)    value: 5.8
+Jarrod Bowen   team: West Ham United    score: 12(3.519065389322372)    value: 5.9
+FWD:
+Alexandre Lacazette   team: Arsenal    score: 13(4.849241481014727)    value: 8.2
+Neal Maupay   team: Brighton    score: 2(3.816905646418256)    value: 6.1
+Harry Kane   team: Tottenham Hotspur    score: 2(7.813553167879152)    value: 11.7
+subs:
+Lewis Dunk   team: Brighton    score: 8(2.548585337305754)    value: 5.0
+Lukasz Fabianski   team: West Ham United    score: 1(2.9751078712253967)    value: 5.0
+Kieran Tierney   team: Arsenal    score: 0(2.3057587335253884)    value: 5.3
+Anwar El Ghazi   team: Aston Villa    score: 1(2.7854479084553274)    value: 5.3
+####################################################
+cycle num: 32
+unused budget: 2.799999999999973
+total team value: 102.10
+last cycle score: 43 (1986 in total)
+1 trade(s) was commited
+bought:
+Heung-Min Son for 9.5
+sold:
+Anwar El Ghazi for 5.2
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 1(4.361099623030787)    value: 5.4
+DEF:
+Stuart Dallas   team: Leeds United    score: 1(4.362861989138617)    value: 5.1
+Lewis Dunk   team: Brighton    score: 6(4.21567781724062)    value: 5.0
+Aaron Cresswell   team: West Ham United    score: 0(3.197510767771796)    value: 5.8
+MID:
+Mohamed Salah   team: Liverpool    score: 1(8.082340108701528)    value: 12.5
+Heung-Min Son   team: Tottenham Hotspur    score: 2(7.465727080922631)    value: 9.5
+Leandro Trossard   team: Brighton    score: 1(4.693938686805837)    value: 5.7
+Jarrod Bowen   team: West Ham United    score: 5(4.280642092526502)    value: 5.9
+FWD:
+Alexandre Lacazette   team: Arsenal    score: 2(6.352030829907991)    value: 8.3
+Neal Maupay   team: Brighton    score: 1(4.3243734694145335)    value: 6.0
+Harry Kane   team: Tottenham Hotspur    score: 12(7.130060084533929)    value: 11.7
+subs:
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 1(2.5575250432312617)    value: 5.5
+Raphael Dias Belloli   team: Leeds United    score: 0(3.463898317864819)    value: 5.5
+Kieran Tierney   team: Arsenal    score: 0(1.39777430102942)    value: 5.2
+Lukasz Fabianski   team: West Ham United    score: 2(2.801194827747136)    value: 5.0
+####################################################
+cycle num: 33
+unused budget: 0.6999999999999735
+total team value: 104.40
+last cycle score: 31 (2017 in total)
+1 trade(s) was commited
+bought:
+Bruno Miguel Borges Fernandes for 11.6
+sold:
+Heung-Min Son for 9.5
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Bruno Miguel Borges Fernandes
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 2(3.779453713510319)    value: 5.4
+DEF:
+Aaron Cresswell   team: West Ham United    score: 0(0.7506208537748731)    value: 5.7
+Stuart Dallas   team: Leeds United    score: 6(4.6812896222126446)    value: 5.2
+Lewis Dunk   team: Brighton    score: 2(2.380805282835916)    value: 4.9
+Kieran Tierney   team: Arsenal    score: 0(1.1647907150726335)    value: 5.2
+MID:
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 3(7.922248820053066)    value: 11.6
+Mohamed Salah   team: Liverpool    score: 9(6.375951355349249)    value: 12.6
+Jarrod Bowen   team: West Ham United    score: 2(4.357067053389393)    value: 6.0
+Leandro Trossard   team: Brighton    score: 2(2.9954971639995303)    value: 5.7
+FWD:
+Neal Maupay   team: Brighton    score: 2(2.241626120263564)    value: 6.0
+Alexandre Lacazette   team: Arsenal    score: 0(4.559716885706573)    value: 8.4
+subs:
+Harry Kane   team: Tottenham Hotspur    score: 0(0.0)    value: 11.7
+Lukasz Fabianski   team: West Ham United    score: 3(2.692499175573223)    value: 5.0
+Raphael Dias Belloli   team: Leeds United    score: 0(0.7506208537748731)    value: 5.5
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 0(0.0)    value: 5.5
+####################################################
+cycle num: 34
+unused budget: 2.099999999999972
+total team value: 102.90
+last cycle score: 23 (2040 in total)
+1 trade(s) was commited
+bought:
+Jamie Vardy for 10.3
+sold:
+Harry Kane for 11.7
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 2(3.8664102352494494)    value: 5.4
+DEF:
+Aaron Cresswell   team: West Ham United    score: 2(0.6003499089962583)    value: 5.6
+Stuart Dallas   team: Leeds United    score: 1(4.355202665690905)    value: 5.3
+Lewis Dunk   team: Brighton    score: 8(2.7442375112187976)    value: 4.9
+Kieran Tierney   team: Arsenal    score: 0(1.1555777107934655)    value: 5.2
+MID:
+Leandro Trossard   team: Brighton    score: 3(3.795054785461714)    value: 5.7
+Jarrod Bowen   team: West Ham United    score: 1(2.9561826656963444)    value: 6.0
+Raphael Dias Belloli   team: Leeds United    score: 0(0.7742629524745192)    value: 5.4
+FWD:
+Neal Maupay   team: Brighton    score: 2(4.412185398708721)    value: 6.0
+Alexandre Lacazette   team: Arsenal    score: 0(0.9381864064456394)    value: 8.4
+Jamie Vardy   team: Leicester    score: 2(6.582340108701528)    value: 10.3
+subs:
+Mohamed Salah   team: Liverpool    score: 0(0.0)    value: 12.6
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 0(0.0)    value: 11.6
+Lukasz Fabianski   team: West Ham United    score: 2(2.431629610355832)    value: 5.0
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 6(0.0)    value: 5.5
+####################################################
+cycle num: 35
+unused budget: 5.099999999999972
+total team value: 99.90
+last cycle score: 52 (2092 in total)
+1 trade(s) was commited
+bought:
+Heung-Min Son for 9.6
+sold:
+Mohamed Salah for 12.6
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Jamie Vardy
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 2(3.388149365684232)    value: 5.4
+DEF:
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 0(2.9587901944606045)    value: 5.6
+Kieran Tierney   team: Arsenal    score: 1(1.1120994499239003)    value: 5.2
+Stuart Dallas   team: Leeds United    score: 9(4.62660747932493)    value: 5.3
+Aaron Cresswell   team: West Ham United    score: 1(4.235303131498844)    value: 5.6
+Lewis Dunk   team: Brighton    score: 3(2.999064794112114)    value: 4.9
+MID:
+Heung-Min Son   team: Tottenham Hotspur    score: 7(7.147460841645815)    value: 9.6
+Leandro Trossard   team: Brighton    score: 1(3.563503904197142)    value: 5.7
+Jarrod Bowen   team: West Ham United    score: 1(2.5639029376045657)    value: 6.0
+FWD:
+Neal Maupay   team: Brighton    score: -1(2.9947182711987)    value: 5.9
+Jamie Vardy   team: Leicester    score: 5(7.34320967391892)    value: 10.3
+subs:
+Alexandre Lacazette   team: Arsenal    score: 1(0.8947081455760741)    value: 8.4
+Raphael Dias Belloli   team: Leeds United    score: 4(0.7990682383626477)    value: 5.4
+Lukasz Fabianski   team: West Ham United    score: 2(2.366412219051484)    value: 5.0
+Bruno Miguel Borges Fernandes   team: Manchester United    score: 10(0.0)    value: 11.6
+####################################################
+cycle num: 36
+unused budget: 3.9999999999999725
+total team value: 100.80
+last cycle score: 52 (2144 in total)
+1 trade(s) was commited
+bought:
+Mohamed Salah for 12.7
+sold:
+Bruno Miguel Borges Fernandes for 11.6
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 2(3.5185841482929274)    value: 5.4
+DEF:
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 6(2.238426778711313)    value: 5.6
+Stuart Dallas   team: Leeds United    score: 6(4.62513590127609)    value: 5.3
+Aaron Cresswell   team: West Ham United    score: 3(3.7734498181611102)    value: 5.6
+Lewis Dunk   team: Brighton    score: 0(3.139401125946048)    value: 4.9
+MID:
+Mohamed Salah   team: Liverpool    score: 10(7.766605314183275)    value: 12.7
+Heung-Min Son   team: Tottenham Hotspur    score: 3(6.465822207561145)    value: 9.6
+Leandro Trossard   team: Brighton    score: 3(3.0853062177129496)    value: 5.6
+Raphael Dias Belloli   team: Leeds United    score: 6(2.904167250939699)    value: 5.4
+Jarrod Bowen   team: West Ham United    score: 3(2.3629417463528086)    value: 5.9
+FWD:
+Neal Maupay   team: Brighton    score: 0(2.2795908200649144)    value: 5.9
+subs:
+Jamie Vardy   team: Leicester    score: 0(0.0)    value: 10.3
+Kieran Tierney   team: Arsenal    score: 0(0.0)    value: 5.2
+Lukasz Fabianski   team: West Ham United    score: 2(2.3229339581819186)    value: 5.0
+Alexandre Lacazette   team: Arsenal    score: 0(0.0)    value: 8.4
+####################################################
+cycle num: 37
+unused budget: 2.4999999999999725
+total team value: 102.50
+last cycle score: 38 (2182 in total)
+1 trade(s) was commited
+bought:
+Harry Kane for 11.8
+sold:
+Jamie Vardy for 10.3
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(3.670766602735688)    value: 5.4
+DEF:
+Stuart Dallas   team: Leeds United    score: 5(6.124998586656711)    value: 5.4
+Aaron Cresswell   team: West Ham United    score: 5(3.800520522803191)    value: 5.6
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 2(2.137952139208528)    value: 5.6
+MID:
+Mohamed Salah   team: Liverpool    score: 3(7.691035760875441)    value: 12.8
+Heung-Min Son   team: Tottenham Hotspur    score: 2(6.66147438147419)    value: 9.7
+Raphael Dias Belloli   team: Leeds United    score: 3(3.575409878746496)    value: 5.5
+Leandro Trossard   team: Brighton    score: 9(3.150460425936273)    value: 5.5
+Jarrod Bowen   team: West Ham United    score: 1(2.5585003075068853)    value: 5.9
+FWD:
+Neal Maupay   team: Brighton    score: 0(1.1555777107934655)    value: 5.9
+Harry Kane   team: Tottenham Hotspur    score: 2(7.139735251039406)    value: 11.8
+subs:
+Lewis Dunk   team: Brighton    score: 0(0.7642733629673785)    value: 4.8
+Lukasz Fabianski   team: West Ham United    score: 0(2.409890479921049)    value: 5.0
+Alexandre Lacazette   team: Arsenal    score: 0(0.0)    value: 8.4
+Kieran Tierney   team: Arsenal    score: 5(0.0)    value: 5.2
+####################################################
+cycle num: 38
+unused budget: 0.6999999999999735
+total team value: 104.30
+last cycle score: 70 (2252 in total)
+triple captain cheap was used!
+1 trade(s) was commited
+bought:
+Jamie Vardy for 10.2
+sold:
+Alexandre Lacazette for 8.4
+-  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -  -
+captain is Mohamed Salah
+GK:
+Emiliano MartÃ­nez   team: Aston Villa    score: 3(3.7359754526407536)    value: 5.3
+DEF:
+Kieran Tierney   team: Arsenal    score: 6(2.4652451200951955)    value: 5.2
+Stuart Dallas   team: Leeds United    score: 2(4.623576920945784)    value: 5.5
+Aaron Cresswell   team: West Ham United    score: 6(4.5831292184553645)    value: 5.7
+Sergio ReguilÃ³n   team: Tottenham Hotspur    score: 1(2.900139459312608)    value: 5.5
+MID:
+Mohamed Salah   team: Liverpool    score: 6(6.962257488096318)    value: 12.9
+Heung-Min Son   team: Tottenham Hotspur    score: 5(5.5680004685448905)    value: 9.6
+Leandro Trossard   team: Brighton    score: 1(4.216421494273918)    value: 5.5
+Raphael Dias Belloli   team: Leeds United    score: 5(2.966714226572583)    value: 5.6
+FWD:
+Jamie Vardy   team: Leicester    score: 13(6.277992282614571)    value: 10.2
+Harry Kane   team: Tottenham Hotspur    score: 10(6.564842693229581)    value: 11.9
+subs:
+Neal Maupay   team: Brighton    score: 0(1.2238612575511594)    value: 5.8
+Jarrod Bowen   team: West Ham United    score: 6(2.187530788165918)    value: 5.8
+Lewis Dunk   team: Brighton    score: 1(1.136904735812029)    value: 4.8
+Lukasz Fabianski   team: West Ham United    score: 9(1.230784691604954)    value: 5.0
+####################################################
+####################################################
+####################################################
+SEASON SUMMERY:
+total score is 2252
+####################################################
+####################################################
